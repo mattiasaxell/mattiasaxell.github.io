@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Mattias Axell
+tagline:             My Learning Journal through Third Year of Exam Project at Kaospilot in Denmark 
+url:                 http://mattiasaxell.nu
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,17 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Mattias Axell
+  url:               http://mattiasaxell.com
+  email:             hi@mattiasaxell.com
 
 # Custom vars
 version:             2.0.0
 github:
   repo:              https://github.com/poole/poole
+
+# Top Header
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
