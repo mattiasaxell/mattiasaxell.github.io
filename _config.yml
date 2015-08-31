@@ -5,9 +5,9 @@ email: hi@mattiasaxell.com
 description: "The Learning Journal for my Exam Project at Kaospilot!"
 baseurl: ""
 url: "http://mattiasaxell.com"
-twitter_username: unknown
+twitter_username: okfse
 github_username:  mattiasaxell
-facebook_username:  unknown
+facebook_username:  OpenSweden
 
 # Build settings
 markdown: kramdown
