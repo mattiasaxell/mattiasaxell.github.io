@@ -1,36 +1,17 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+# Site settings
+title: Clean Blog
+header-img: img/home-bg.jpg
+email: your-email@yourdomain.com
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: SBootstrap
+github_username:  davidtmiller
+facebook_username:  IronSummitMedia
 
-# Setup
-title:               Mattias Axell
-tagline:             My Learning Journal through Third Year of Exam Project at Kaospilot in Denmark 
-url:                 http://mattiasaxell.nu
-paginate:            1
-baseurl:             ""
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
-author:
-  name:              Mattias Axell
-  url:               http://mattiasaxell.com
-  email:             hi@mattiasaxell.com
-
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
-
-# Top Header
-pages_list:       
-  About: '/about'
-  Archive: '/archive'
-  Feed: '/atom.xml'
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
