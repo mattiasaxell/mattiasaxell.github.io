@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Peaking Beyond the Core"
-subtitle:   "an inspiring day with Mat Lincez at Idea Couture"
+subtitle:   "Exploring Foresight and the Periphery with Mat Lincez at Idea Couture"
 date:       2015-09-01 23:00:00
 author:     "Mattias Axell"
 header-img: "img/post-bg-06.jpg"
