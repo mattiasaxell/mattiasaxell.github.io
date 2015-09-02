@@ -46,15 +46,15 @@ header-img: "img/post-bg-06.jpg"
 <p>How much I think I have figured myself out but how much I actually need to dive deeper intrinsically and extrinsically. I need to dive deeper in finding out what really matters for me to do this year.</p>
 
 <a data-flickr-embed="true" data-header="false" data-footer="false" data-context="false"  href="https://www.flickr.com/photos/smithsonian/2575987184/" title="Portrait of Albert Einstein and Others (1879-1955), Physicist"><img src="https://farm4.staticflickr.com/3106/2575987184_d0b3b5635b_z.jpg" width="640" height="496" alt="Portrait of Albert Einstein and Others (1879-1955), Physicist"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<span class="caption text-muted">“Liminality may perhaps be regarded as the Nay to all positive structural assertions, but as in some sense the source of them all, and, more than that, as a realm of pure possibility whence novel configurations of ideas and relations may arise” - Victor Turner</span>
+
+<blockquote>“Liminality may perhaps be regarded as the Nay to all positive structural assertions, but as in some sense the source of them all, and, more than that, as a realm of pure possibility whence novel configurations of ideas and relations may arise” (1967: 97). - Victor Turner </blockquote>
+Source: [What is Liminality? - Liminality.org](http://www.liminality.org/about/whatisliminality/)
 
 <h2 class="section-heading">What has Changed?</h2>
 
-<blockquote>“Liminality may perhaps be regarded as the Nay to all positive structural assertions, but as in some sense the source of them all, and, more than that, as a realm of pure possibility whence novel configurations of ideas and relations may arise” (1967: 97). - [What is Liminality? -Liminality.org](http://www.liminality.org/about/whatisliminality/)</blockquote>
+<p>That I need to prioritise projects much more in terms of what I can do, where the project gets space to move and what I intend to do.</p>
 
-<p>That I need to prioritise much more in terms of what I can do and what I intend to do.</p>
-
-<p>Seeing Street Art not only as Art but media, 'Street Media' as mentioned by Mat Lincez. Taking more note of my surroundings as suggested by Daniel H. Pink in Drive.</p>
+<p>Seeing Street Art not only as Art but media. Using 'Street Media' as a word, mentioned by Mat Lincez. Taking more note of my surroundings as suggested by Daniel H. Pink in his book "Drive".</p>
 
 <h2 class="section-heading">What are Additional Learnings?</h2>
 

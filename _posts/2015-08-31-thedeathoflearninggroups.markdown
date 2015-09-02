@@ -23,14 +23,19 @@ It is recurring to me who fascinating it is with the fluxuations of energy level
 
 <h2 class="section-heading">What Tools have I Used?</h2>
 
-- Four-Player Model - Adapting to the nature of the conversation in our selection rounds
-- Feedback - unstructured, in the shape of general compliments to: 
-  1. a person who spoke up airing frustrations
+<p>
+* Four-Player Model - Adapting to the nature of the conversation in our selection rounds.
+</p>
+<p>
+* Feedback - unstructured, in the shape of general compliments to: 
+  1. a person who spoke up airing frustrations.
   2. another person who lead a process in a respectable manner conscious of a rather provocative position in the system already having a learning group. 
-- Dialogue - Mediating between two different dichotomies in a conversations where I experienced that neither parts were actually listening on deeper levels.
-- How Do I Start - Hacked the questionnaire exercise from the handout by BespokeCPH.dk doing it more as a mindmap than text document. 
-- Scope Wheel - Added another area in my Scope Wheel with 'skills and competencies' to fit with the others being Sustainability, Open Source / Open Data & Design/Process.
-- (GitHub - Learning how to use it for the first time. This is the first post I do so far to publish my Learning Journal!)
+</p>
+<p>
+* Dialogue - Mediating between two different dichotomies in a conversations where I experienced that neither parts were actually listening on deeper levels.</p><p>
+* How Do I Start - Hacked the questionnaire exercise from the handout by BespokeCPH.dk doing it more as a mindmap than text document.</p><p>
+* Scope Wheel - Added another area in my Scope Wheel with 'skills and competencies' to fit with the others being Sustainability, Open Source / Open Data & Design/Process.</p><p>
+* GitHub - Learning how to use it for the first time. This is the first post I do so far to publish my Learning Journal!</p>
 
 <h2 class="section-heading">What Surprised Me?</h2>
 
