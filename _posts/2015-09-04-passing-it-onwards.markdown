@@ -1,7 +1,8 @@
 ---
 layout:     post
 title:      "Passing it Onwards"
-date:       2015-09-04 21:10:00
+subtitle:   "Enabling Learning over Generations"
+date:       2015-09-04 21:15:00
 author:     "Mattias Axell"
 header-img: "img/post-bg-05.jpg"
 ---
@@ -16,6 +17,8 @@ header-img: "img/post-bg-05.jpg"
 
 <p>Finished another Scope Wheel and did my first Scan Card! It goes fast when I just get to it!</p>
 
+<p>Had to pleasure to finish off the day by sharing my learnings from doing process consulting with the next generation of students at Kaospilot.</p>
+
 <blockquote>“How beautiful can life be? We hardly dare imagine it.”- Charles Eisenstein</blockquote>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/smithsonian/2550256209/in/photolist-4TmJjD-ioP8Ry-ioP6qx-6Kzh4E-5K7uMb-ioP6xB-aER5sn-tdGbx9-gbkVcN-9nrPEB-dRkQGD-4TmybM-apzHY9-r2ceM7-q7Guot-e4fZto-9Pyq7m-otCUGe-odwF5e-ie2rdK-9YyNSd-i6VCKN-hXGQwe-hXDaKL-hXBGeq-hXxubz-Gjej-vXk6cq-owhkuN-oeWjRz-oukrvZ-oei3Zi-oepYaV-owhdto-odDd7n-of1bSk-owdbMf-ow74j2-owmpeT-osZkeG-ovKZMu-ovzsZr-odufgS-owLAja-owuWFX-ouhWj1-osE385-owEcri-oeX5qN-fYPsaj" title="Rural Carrier Greeted by Children"><img src="https://farm4.staticflickr.com/3065/2550256209_6df0bb0da1_z.jpg" width="508" height="640" alt="Rural Carrier Greeted by Children"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -26,6 +29,8 @@ header-img: "img/post-bg-05.jpg"
 - S.W.O.T.
 - Core - Adjacent - Peripheral
 - Appreciative Inquiry
+- Coaching
+- Storytelling
 
 <blockquote>“The world is on fire! Why am I sitting in front of my computer? It is because I don’t have a fire extinguisher for the world, and there isn’t a global 911 to call.” - Charles Eisenstein</blockquote>
 
@@ -35,6 +40,7 @@ header-img: "img/post-bg-05.jpg"
 
 - My irreverence towards myself and my workflow. I have a hard time following through with one task at a time.
 - The revalation that the unplanned research process I am going through makes me progress slowly, one day at a time. This needs to be resolved soon!
+- That I learn from experience of my assignment at Kaospilot to do process consulting - just by talking about the experiences and doings!
 
 <h2 class="section-heading">What has Changed?</h2>
 
