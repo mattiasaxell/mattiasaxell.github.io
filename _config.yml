@@ -9,6 +9,12 @@ twitter_username: okfse
 github_username:  mattiasaxell
 facebook_username:  OpenSweden
 
+# Pages list
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/feed.xml'
+
 # Build settings
 markdown: kramdown
 highlighter: pygments
