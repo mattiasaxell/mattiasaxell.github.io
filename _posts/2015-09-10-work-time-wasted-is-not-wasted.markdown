@@ -4,7 +4,7 @@ title:      "Work time wasted is not wasted"
 subtitle:   "- Or is it maybe?"
 date:       2015-09-10 22:40:00
 author:     "Mattias Axell"
-header-img: "img/post-bg-07.jpg"
+header-img: "img/post-bg-02.jpg"
 ---
 
 <h2 class="section-heading">What have I Done Today?</h2>
