@@ -47,4 +47,6 @@ Photo
 - Reading Theory U chapter and watching video.
 - Setting up the archival system for my project!
 
+<p><i>P.S. "Fuck You Buddy" was a game designed by the quite special mathematician John Nash"<i></p>
+
 Photographs by <a href="https://www.flickr.com/commons">The Commons</a>.
