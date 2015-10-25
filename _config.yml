@@ -13,7 +13,11 @@ facebook_username:  OpenSweden
 pages_list:       
   About: '/about'
   Archive: '/archive'
+  Calendar: '/calendar'
+  Contact: '/contact'
   Feed: '/feed.xml'
+  Research: '/research'
+  
 
 # Build settings
 markdown: kramdown
