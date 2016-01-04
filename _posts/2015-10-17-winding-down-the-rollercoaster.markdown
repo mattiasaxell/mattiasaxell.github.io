@@ -15,8 +15,6 @@ header-img: "img/post-bg-09.jpg"
 
 - None.
 
-<blockquote></blockquote>
-
 <h2 class="section-heading">How do I Feel? How do I Feel about the Project Today?</h2>
 
 - I feel OK. This week has been one of the most challenging ones personally. 

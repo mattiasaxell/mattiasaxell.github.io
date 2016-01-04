@@ -21,7 +21,7 @@ header-img: "img/post-bg-08.jpg"
 
 <h2 class="section-heading">How do I Feel? How do I Feel about the Project Today?</h2>
 
-- I feel great today because of the great meetings and conversations I have been going through. 
+- I feel great and the project feels awesome today because of the great meetings and conversations I have been going through. 
 
 <h2 class="section-heading">What Surprised Me?</h2>
 

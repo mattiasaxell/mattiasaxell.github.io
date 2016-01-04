@@ -9,9 +9,9 @@ header-img: "img/post-bg-07.jpg"
 
 <h2 class="section-heading">What have I Done Today?</h2>
 
-- Had a meeting with Henrik Edlund at the company Making Waves in Stockholm, talking about a webapp, one of his personal side-projects.
+- Had a meeting with Henrik Edlund at the company Making Waves in Stockholm, talking about an application of the web, one of his personal side-projects.
 - Ate lunch with my mentor Jessica Cederberg Wodmar. We discussed many matters, one of them being what kind of strategic approach I can take in my third year project.
-- Met with Håkan and Elisabeth Lauritzén at the publicly funded organisation for healthcare development processes called FOUNU. We talke d 
+- Met with Håkan and Elisabeth Lauritzén at the publicly funded organisation for healthcare development processes called FOUNU. We talked about how processes in public sector can become more sustainable through sharing processes and ways to work. 
 
 <h2 class="section-heading">What Tools have I Used?</h2>
 
