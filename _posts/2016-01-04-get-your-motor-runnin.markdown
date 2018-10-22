@@ -41,8 +41,7 @@ header-img: "img/post-bg-01.jpg"
 <h2 class="section-heading">What have I Done Today?</h2>
 
 - Caught up with majority of e-mails, sent more that came.
-- Made
-- Continued organnizing contact data for all public bodies.
+- Continued organizing contact data for all public bodies.
 
 <h2 class="section-heading">What Tools have I Used?</h2>
 
@@ -55,7 +54,7 @@ header-img: "img/post-bg-01.jpg"
 
 <h2 class="section-heading">What Surprised Me?</h2>
 
-- I think the amount of time it takes to get back in to a working phase. Also studying with a friend made me continue working until 22.00, but there was lots of personal things I took care of as well.
+- I think the amount of time it takes to get back in to a working phase. Also studying with a friend made me continue working until 22.00, but there was lots of personal things I took care of as well.    
 
 <h2 class="section-heading">What has Changed?</h2>
 
