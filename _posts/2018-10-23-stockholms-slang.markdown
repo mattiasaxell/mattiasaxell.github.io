@@ -2,9 +2,9 @@
 layout:     post
 title:      "Delar med mig av äldre Stockholmsslang"
 subtitle:   "- för att slang är en fantastisk viktig del i att levandegöra och utveckla våra språk!"
-date:       2018-10-23 21:00:00
+date:       2018-10-23 12:30:00
 author:     "Mattias Axell"
-header-img: "img/post-bg-02.jpg"
+header-img: "img/post-bg-07.jpg"
 ---
 
 <p>Efter ett långt uppehåll från bloggen tänkte jag att det vore roligt att dela med mig av detta utdrag ur en slangordlista från 1930- och 1940-tal som främst innehåller slang från Stockholm. Jag tycker mycket om språk och känner personligen att slang från förr ofta låter roligt och på något sätt låter snällare i kontrast till den slang jag ofta hör idag. I den här listan finns det dock helt klart vissa uttryck som inte är schyssta. Det är också intressant att se hur betydelserna för vissa slanguttryck har förändrats.</p>
