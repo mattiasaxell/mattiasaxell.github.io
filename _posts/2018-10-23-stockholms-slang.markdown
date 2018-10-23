@@ -306,9 +306,9 @@ header-img: "img/post-bg-07.jpg"
 * Öronen	-	lurarna
 * Överrock	-	paj, vepa
 
-<p>Hoppas den kommer till nytta för dig som vill tugga slang och att det leder till mycket flabb!</p>
+<p>Hoppas den kommer till nytta för dig som vill tugga slang och att det leder till flabb!</p>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/stockholmtransportmuseum_commons/6081767883/in/photolist-agqDGX-dzX34X-ahGYKG-agtqib-agtr8Y-adxCuC-22sWLPU-FCgXeB-2bhHxkL-adArVN-buUe82-6f3UJv-ahEbDH-agqFWe-ahEfq2-agqGzK-agqFS2-ahH3HS-vAw5aF-agueM7-U4exy1-agqEwK-4WpMVe-8KcGFq-avFVdy-aNJHE6-bxXJCe-pzMkw2-7FbJXR-23PvFMj-8M5jCs-adRLiS-XuJam4-6dzcoC-qNk6x9-7uSWwx-auzkJu-agqGJK-24SM1zG-kGfcDL-8bmath-8bhXD2-6ocpp4-7JkrNy-8EtxTW-egcTL5-EHHePh-vtYNxL-uxvD1E-vcWhiL" title="Children on a swing in front of house in Stockholm 1942"><img src="https://farm7.staticflickr.com/6087/6081767883_fe6a6c11ab_b.jpg" width="1024" height="684" alt="Children on a swing in front of house in Stockholm 1942"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<span class=">Barn kan ofta vara riktigt bra på att hitta på nytt slang!</span>
+<span class="caption text-muted">Barn kan ofta vara riktigt bra på att hitta på nytt slang!</span>
 
 Fotografier från <a href="https://www.flickr.com/photos/stockholmtransportmuseum_commons">Stockholm Transport Museum</a> och <a href="https://www.flickr.com/photos/swedish_heritage_board">Riksantikvarieämbetet</a>.
