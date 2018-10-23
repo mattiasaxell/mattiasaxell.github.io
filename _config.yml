@@ -10,18 +10,18 @@ github_username:  mattiasaxell
 facebook_username:  OpenSweden
 
 # Pages list
-pages_list:       
+pages_list:
   About: '/about'
   Archive: '/archive'
   Calendar: '/calendar'
   Contact: '/contact'
   Feed: '/feed.xml'
   Research: '/research'
-  
+
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
