@@ -12,6 +12,8 @@ header-img: "img/post-bg-07.jpg"
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/swedish_heritage_board/6851649149/in/photolist-brsuzT-66HjC8-agqFsv-agqDGX-dzX34X-ahGYKG-agtqib-agtr8Y-adxCuC-22sWLPU-FCgXeB-2bhHxkL-adArVN-buUe82-6f3UJv-ahEbDH-agqFWe-ahEfq2-agqGzK-agqFS2-ahH3HS-vAw5aF-agueM7-U4exy1-agqEwK-4WpMVe-8KcGFq-avFVdy-aNJHE6-bxXJCe-pzMkw2-7FbJXR-23PvFMj-8M5jCs-adRLiS-XuJam4-6dzcoC-qNk6x9-7uSWwx-auzkJu-agqGJK-24SM1zG-kGfcDL-8bmath-8bhXD2-6ocpp4-7JkrNy-8EtxTW-egcTL5-EHHePh" title="Stockholm, Uppland, Sweden"><img src="https://farm8.staticflickr.com/7044/6851649149_a84ed46a7e_b.jpg" width="1024" height="712" alt="Stockholm, Uppland, Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <span class="caption text-muted">På biblioteken och Internet går det självklart att hitta mycket mer för dig som vill lära dig mer om slang. Arkitekturen som format Stadsbiblioteket vid Odenplan i Stockholm ser nästan religiös ut och får symbolisera den fantastiska tillgången till ytterligare källor till lärande om språkens olika slang.</span>
 
+* 10 öre - viting
+* 25 öre - bleiden
 * Allting	-	rubbet, rasket, klabbet, hela konkarongen
 * Amma	-	tanka kilen
 * Ansiktet	-	plåten, plytet, snoken, fejset, nian
@@ -42,6 +44,7 @@ header-img: "img/post-bg-07.jpg"
 * Brännvin	-	borsten, spånken, kröken, hojtarolja
 * Bröst	-	brön,bomber, bullar, tuttar, pattar
 * Bröstet	-	brökorgen
+* Burgit - borgerligt
 * Butiksbiträde	-	sillstrypare, bodknodd
 * Byxor	-	braller, bracker, tjafs, långtjafs
 * Börja	-	köra igång, dra igång
@@ -223,6 +226,7 @@ header-img: "img/post-bg-07.jpg"
 * Skola	-	plugg
 * Skolka	-	jolla
 * Skor	-	dåjer, pjuck, tanks
+* Skosnören - dojtåtar
 * Skratt	-	garv, gnägg, flabb
 * Skratta	-	garva, gnägga, flabba
 * Skridskor	-	griller

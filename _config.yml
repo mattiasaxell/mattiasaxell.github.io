@@ -1,13 +1,13 @@
 # Site settings
-title: The Learning Journal
+title: MattiasAxell.nu
 header-img: img/home-bg.jpg
 email: hi@mattiasaxell.com
-description: "Follow the Learning Journey of Mattias Axell during the Exam Project at Kaospilot!"
+description: "Blog and Journal - The Journey"
 baseurl: ""
 url: "http://mattiasaxell.nu"
-twitter_username: okfse
+twitter_username: mattiasaxell
 github_username:  mattiasaxell
-facebook_username:  OpenSweden
+facebook_username:
 
 # Pages list
 pages_list:
