@@ -1,10 +1,10 @@
 # Site settings
-title: MattiasAxell.nu
+title: Mattias Axell's Blog and Journal
 header-img: img/home-bg.jpg
 email: hi@mattiasaxell.com
-description: "Blog and Journal - The Journey"
+description: "The Journey - Read all about it!"
 baseurl: ""
-url: "http://mattiasaxell.nu"
+url: "https://mattiasaxell.nu"
 twitter_username: mattiasaxell
 github_username:  mattiasaxell
 facebook_username:
