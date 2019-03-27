@@ -4,7 +4,7 @@ title:      "1177.se, patients' privacy and scandalous privacy intrusion through
 subtitle:   "- my experience with the Swedish government health website 1177.se and the art of giving away patients private data online"
 date:       2019-03-17 20:30:00
 author:     "Mattias Axell"
-header-img: "img/post-bg-11.jpg"
+header-img: "img/post-bg-05.jpg"
 ---
 
 <p><b>Update:</b> The company <a href="https://cookiebot.com/">Cookiebot</a> released their report <i><a href="https://www.cookiebot.com/media/1121/cookiebot-report-2019-medium-size.pdf">"Ad Tech Surveillance
