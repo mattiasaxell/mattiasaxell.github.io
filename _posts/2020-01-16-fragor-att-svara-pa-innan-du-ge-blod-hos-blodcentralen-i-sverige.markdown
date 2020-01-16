@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Frågor att svara på innan du lämnar blod hos Blodcentralen i Sverige"
+title:      "Frågor att svara på innan du ge blod hos Blodcentralen i Sverige"
 subtitle:   "- spara tid och rädda liv!"
 date:       2020-01-16 16:00:00
 author:     "Mattias Axell"
@@ -81,15 +81,15 @@ Jag är blodgivare och kan rekommendera fler att ge blod. Det är trevligt, tar 
 
 För att säkerställa att det är dina egna svar du godkänner, vänligen age ditt personnummer och klicka på 'Signera' för att gå vidare och skriva under din hälsodeklaration.
 
-## That's it! Att lämna blod räddar liv!
+## That's it! Att ge blod räddar liv!
 
 Det är ofta brist på blod i Sverige idag och behövs fler blodgivare över hela landet. Jag har varit blodgivare sen 2016 och får ofta meddelande från Blodcentralen att behovet av min blodgrupp "är stor just nu". Jag får också meddelanden kort efter min bloddonation att mitt blod kommit till användning för en mottagare. Tillgången på donerat blod verkar inte så stor och blodet kommer ofta till användning på väldigt kort tid emellan givare till mottagare.
 
-## Ordentliga regler kräver strategiskt tänk för att lämna blod
+## Ordentliga regler kräver strategiskt tänk för att ge blod
 
 I Sverige har vi ordentliga regler kring kvalitén på blod vid blodgivning. Detta är för att mottagaren inte ska riskera att insjukna eller bli sjukare av något från blodgivaren. Även om blodet testas så kan det spara mycket tid både för dig och blodcentralen att kunna svara på frågorna för hälsodeklaration i förväg.
 
 
 ## Tillgänglig hälsodeklaration på Internet sparar tid för blodgivaren
 
-Eftersom det går minst tre månader innan blodgivare får ge blod igen så är det lätt att glömma att gå dit igen, speciellt om du bett att inte få påminnelser. Frågorna som du som blodgivare behöver svara på kräver ofta lite betänketid, t.ex. om man rest utanför Norden, träffat ny partner eller nyligen haft en förkylning. Därför kan det vara slöseri med tid för någon som är givare att åka till Blodcentralen i onödan, bara för att inse att man inte kan lämna blod. Jag hoppas att frågorna ovan gör det lättare för dig att avgöra om du kan lämna blod vid ditt nästa besök - innan du åker dit och svarar på frågorna. Lycka till!
+Eftersom det går minst tre månader innan blodgivare får ge blod igen så är det lätt att glömma att gå dit igen, speciellt om du bett att inte få påminnelser. Frågorna som du som blodgivare behöver svara på kräver ofta lite betänketid, t.ex. om man rest utanför Norden, träffat ny partner eller nyligen haft en förkylning. Därför kan det vara slöseri med tid för någon som är givare att åka till Blodcentralen i onödan, bara för att inse att man inte kan ge blod. Jag hoppas att frågorna ovan gör det lättare för dig att avgöra om du kan ge blod vid ditt nästa besök - innan du åker dit och svarar på frågorna. Lycka till!
