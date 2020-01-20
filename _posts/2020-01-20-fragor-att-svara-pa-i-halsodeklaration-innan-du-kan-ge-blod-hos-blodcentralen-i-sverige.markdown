@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Frågor att svara på i hälsodeklaration innan du kan ge blod hos Blodcentralen i Sverige"
-subtitle:   "- Spara tid och rädda liv genom att läsa dessa frågor innan du åker till din Blodcentral!"
+subtitle:   "- Spara tid genom att läsa dessa frågor innan du eventuellt kan åka till din Blodcentral för att ge blod och rädda liv!"
 date:       2020-01-20 16:00:00
 author:     "Mattias Axell"
 header-img: "img/post-bg-06.jpg"
