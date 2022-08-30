@@ -2,7 +2,7 @@
 layout:     post
 title:      "Vi vet mer om svarta hål än vart våra skattepengar går"
 subtitle:   "- Vad finns det för skäl till att inte kunna följa våra skattepengar?"
-date:       2022-08-30 10:00:00
+date:       2022-08-30 01:00:00
 author:     "Mattias Axell"
 header-img: "img/post-bg-03.jpg"
 ---
