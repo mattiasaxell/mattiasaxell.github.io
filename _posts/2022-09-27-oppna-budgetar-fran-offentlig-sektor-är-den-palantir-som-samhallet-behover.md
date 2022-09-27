@@ -4,7 +4,7 @@ title:      "Öppna budgetar från offentlig sektor är den Palantir som samhäl
 subtitle:   "- Tänk vad mäktigt, lärorikt och nyttigt att kunna se in i framtiden?"
 date:       2022-09-27 08:30:00
 author:     "Mattias Axell"
-header-img: "img/post-bg-03.jpg"
+header-img: "img/post-bg-02.jpg"
 ---
 
 I mitt engagemang med [Handlingar.se](https://handlingar.se/) har jag granskat hur nya datalagen fungerar i praktiken och testat datamognaden hos kommuner innan och efter införandet 1 augusti 2022.
