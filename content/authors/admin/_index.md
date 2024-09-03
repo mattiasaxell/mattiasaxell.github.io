@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Mattias Axell / ماتياس / 马提亚
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: /ˈmɑtːiɑs/
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mattias
+last_name: Axell
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🍵
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,69 +20,74 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Chief Experience Officer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: MetaSolutions
+    url: https://entryscape.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:hi@mattiasaxell.com'
     label: E-mail Me
+  - icon: brands/mastodon
+    url: https://mastodon.acc.sunet.se/@mattiasaxell
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/mattiasaxell
+# - icon: brands/instagram
+#    url: https://www.instagram.com/
+#  - icon: brands/gitlab
+#    url: https://gitlab.com/mattiasaxell
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/mattiasaxell
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/mattiasaxell
+#  - icon: academicons/google-scholar
+#    url: https://scholar.google.com/
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Linked Open Data
+  - Metadata
+  - Freedom of Information
+  - Regenerative Development
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BsC Business Administration
+    institution: Kaospilots
+    date_start: 2013-08-01
+    date_end: 2016-06-18
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on why _Freedom of Information_ is awesome when it's easily available as a citizen right and easy to use digitally. Supervised by [MsC Pete Sims](https://www.kaospilot.dk/obituary-for-pete-sims/). Presented project at 3 conferences with the contributions and project being discussed at conference panels.
+ #   button:
+ #     text: 'Read Thesis'
+ #     url: 'https://example.com'
+#  - area: MEng Artificial Intelligence
+#    institution: Gothenburg University
+#    date_start: 2016-01-01
+#    date_end: 2020-12-31
+#    summary: |
+#      GPA: 3.8/4.0
+#
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - area: BSc Artificial Intelligence
+#    institution: Kungsholmen Gymnasium
+#    date_start: 2008-08-10
+#    date_end: 2011-06-11
+#    summary: |
+#      GPA: 21.5/22.5
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -143,11 +148,11 @@ skills:
 
 languages:
   - name: English
+    percent: 99
+  - name: Swedish
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Spanish
+    percent: 69
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +188,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mattias Axell is a Swedish entrepreneur and digital strategist, known for his work in sustainable development and digital innovation. He has a background in IT and marketing and has been involved in several initiatives promoting social and sustainable responsibility. Mattias Axell is also a speaker and advisor on digital transformation and sustainable business development.

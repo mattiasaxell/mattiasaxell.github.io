@@ -16,8 +16,9 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Check resume
+#        url: uploads/resume.pdf
+        url: /experience/
     design:
       css_class: dark
       background:
@@ -35,34 +36,34 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a design thinker and process designer working at MetaSolutions AB with EntryScape and running Handlingar.se through a Swedish not-for-profit organization. I blog about open data, digital rights, learning and impact projects.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I work with a range of tools, methods and frameworks to comprehensively support organizations in their work toward becoming their full potential.
         
-        Please reach out to collaborate 😃
+        You are very welcome to reach out to me to collaborate and work together! 😃
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+#  - block: collection
+#    id: papers
+#    content:
+#      title: Featured Publications
+#      filters:
+#        folders:
+#          - publication
+#        featured_only: true
+#    design:
+#      view: article-grid
+#      columns: 2
+#  - block: collection
+#    content:
+#      title: Recent Publications
+#      text: ""
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: false
+#    design:
+#      view: citation
   - block: collection
     id: talks
     content:
