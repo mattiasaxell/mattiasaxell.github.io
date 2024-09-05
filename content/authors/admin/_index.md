@@ -89,19 +89,24 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Chief Experience Officer
+    company_name: MetaSolutions
+    company_url: 'https://entryscape.com'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2020-04-20
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Responsibilities and achievements include:
+      - Created and facilitated user community support forum which before was non-existent. Established FAQ sections covering majority of support issues.
+      - Conceptualized, designed and launched services section of the company website meeting demand from customer base.
+      - Planned, designed and executed marketing webinar series promoting open source product and services.
+      - Transformed company from inside-out based innovation process to combining niche expertise with prospecting customer and existing customer needs supporting new sales and upsales.
+      - Establishing conscious work culture focused on raising the Customer Satisfaction Measurement where customers became ambassadors on marketing website materials and webinar co-hosts educating and marketing to prospecting customers.
+      - Created foundational tech support framework process including use of user support forum, help desk for technical support, user documentation.
+      - Developed and packaged partnerships model growing from 1 to 10 partners.
+      - Handling multiple complex customer projects both related to product and consulting. 
+  - position: Chief Technology Officer
+    company_name: Handlingar.se
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
