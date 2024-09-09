@@ -1,25 +1,29 @@
-```json
 {
   "basics": {
     "name": "Mattias Axell",
-    "label": "Software Engineer",
-    "image": "",
-    "email": "mattias.axell@example.com",
-    "phone": "(123) 456-7890",
+    "label": "Project leader",
+    "image": "https://mattiasaxell.com/assets/mattias-axell-profile-kristina-alexandersson-cc-by-sa-4.png",
+    "email": "hi@mattias.axell.com",
+    "phone": "(046) 456-7890",
     "url": "https://mattiasaxell.com",
-    "summary": "Experienced Software Engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Proficient in technology and writing code to create systems that are reliable and user-friendly.",
+    "summary": "Experienced designer with a passion for initiating, using and designing projects and solutions. Proficient in systems thinking, multi-stakeholder processes, technology and design methods.",
     "location": {
-      "address": "123 Developer Lane",
-      "postalCode": "12345",
-      "city": "Tech City",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Söder Mälarstrand 21",
+      "postalCode": "11820",
+      "city": "Stockholm",
+      "countryCode": "SE",
+      "region": "Uppland"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "mattiasaxell",
         "url": "https://www.linkedin.com/in/mattiasaxell"
+      },
+      {
+        "network": "GitLab",
+        "username": "mattiasaxell",
+        "url": "https://gitlab.com/mattiasaxell"
       },
       {
         "network": "GitHub",
@@ -30,112 +34,164 @@
   },
   "work": [
     {
-      "name": "Tech Innovators Inc.",
-      "position": "Senior Software Engineer",
-      "url": "https://techinnovators.com",
-      "startDate": "2019-04-01",
-      "endDate": "Present",
-      "summary": "Lead a team of software engineers in the development of scalable web applications.",
+      "company": "Libertadores Konsult",
+      "position": "VD",
+      "url": "https://libertadores.se",
+      "startDate": "2013-08-01",
+      "summary": "Frilansande konsult inom projekt- och processledning, affärs- och konceptutveckling och webbutveckling. Fokus på design- och innovationsprocesser.",
       "highlights": [
-        "Developed a microservices architecture that improved system reliability and scalability.",
-        "Mentored junior developers, improving team productivity and code quality.",
-        "Implemented CI/CD pipelines, reducing deployment time by 50%."
+        "Arbetat med kunder som Vision, Väddö Folkhögskola och Experio Lab.",
+        "Specialiserat på IT-lösningar med fri och öppen källkod."
       ]
     },
     {
-      "name": "Web Solutions Co.",
-      "position": "Software Engineer",
-      "url": "https://websolutions.com",
-      "startDate": "2015-08-01",
-      "endDate": "2019-03-31",
-      "summary": "Worked on various web development projects, enhancing user experience and performance.",
+      "company": "Civic Tech Sweden",
+      "position": "Nätverksstrateg",
+      "startDate": "2019-02-01",
+      "summary": "Bygger nätverk och gemenskap kring civic tech i Sverige.",
       "highlights": [
-        "Redesigned the company’s main product, increasing user satisfaction by 30%.",
-        "Optimized SQL queries, reducing database load by 40%.",
-        "Collaborated with cross-functional teams to define project requirements and scope."
+        "Fokus på mjukvara från civilsamhället som skapar samhällsvärde för medborgare."
+      ]
+    },
+    {
+      "company": "Digidem Lab",
+      "position": "Projektledare och Utbildare",
+      "startDate": "2018-10-01",
+      "endDate": "2019-02-01",
+      "summary": "Skapade och levererade utbildningar inom strategisk förändringsledning."
+    },
+    {
+      "company": "Tarvalley AB",
+      "position": "Projektledare",
+      "url": "https://web.archive.org/web/20180119072433/http://www.tarvalley.com/",
+      "startDate": "2017-06-01",
+      "endDate": "2018-06-01",
+      "summary": "Projektledning inom organisations- och affärsutveckling, processledning samt marknadsföring.",
+      "highlights": [
+        "Ledde projekt inom VR, AR och 3D-grafik för kunder som Boliden och North Kingdom."
+      ]
+    },
+    {
+      "company": "FrågaStaten.se",
+      "position": "Projektledare",
+      "startDate": "2015-06-01",
+      "endDate": "2017-07-01",
+      "summary": "Utvecklade och ledde öppet data-projektet FrågaStaten.se.",
+      "highlights": [
+        "Fick 100 000 kr i bidrag från VINNOVA.",
+        "Ledde teknisk drift och konceptutveckling."
+      ]
+    },
+    {
+      "company": "Undervaka.se",
+      "position": "Utvecklare och Rådgivare",
+      "startDate": "2016-07-01",
+      "summary": "Samarbetade med journaliststudenter och utvecklade projektet 'Operation Öppenhet'.",
+      "highlights": [
+        "Utvecklade webbsidan med WordPress, HTML, CSS och PHP.",
+        "Fick 160 000 kr i bidrag från Internetfonden."
+      ]
+    },
+    {
+      "company": "Hack4Heritage",
+      "position": "Processledare",
+      "startDate": "2016-02-01",
+      "endDate": "2016-11-01",
+      "summary": "Faciliterade designprocess för ett medskapande event för att använda öppna data inom kulturarv.",
+      "highlights": [
+        "Planerade och utvecklade en kreativ designprocess för 70 deltagare."
       ]
     }
   ],
   "education": [
     {
-      "institution": "Tech University",
-      "url": "https://techuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2011-09-01",
-      "endDate": "2015-06-01",
-      "score": "3.8 GPA",
+      "institution": "Kaospilot",
+      "area": "Business Administration and Management (Kreativt Entreprenöriellt Ledarskap)",
+      "studyType": "Kandidatexamen",
+      "startDate": "2013",
+      "endDate": "2016",
       "courses": [
-        "Data Structures and Algorithms",
-        "Database Systems",
-        "Operating Systems",
-        "Software Engineering"
+        "Kreativ projektledning",
+        "Kreativ affärsutveckling",
+        "Designtänk"
+      ],
+      "summary": "Teoretiska och praktiska kurser inom ledarskap, processledning och affärsutveckling."
+    },
+    {
+      "institution": "Kungsholmens Gymnasium",
+      "area": "Samhällsvetenskap",
+      "studyType": "Gymnasieexamen",
+      "startDate": "2008",
+      "endDate": "2011",
+      "score": "3.8 GPA",
+      "summary": "Samhällsvetenskaplig linje med undervisning på engelska."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Open Knowledge Sverige",
+      "position": "Vice Ordförande",
+      "startDate": "2015-02-01",
+      "endDate": "2017-05-01",
+      "summary": "Medgrundare och vice ordförande i föreningen för att öppna kunskap och data i Sverige.",
+      "highlights": [
+        "Drev projekt med stöd från EU-kommissionen och VINNOVA."
       ]
+    },
+    {
+      "organization": "DFRI (Föreningen för Digitala Fri- och Rättigheter)",
+      "position": "Styrelseledamot",
+      "startDate": "2019-02-01",
+      "summary": "Styrelseledamot i föreningen som arbetar för digitala rättigheter."
     }
   ],
   "skills": [
     {
-      "name": "Programming Languages",
+      "name": "Projektledning",
       "level": "Expert",
       "keywords": [
-        "JavaScript",
-        "Python",
-        "Java",
-        "C#"
+        "Processledning",
+        "Konceptutveckling",
+        "Affärsutveckling"
       ]
     },
     {
-      "name": "Web Development",
-      "level": "Advanced",
+      "name": "IT",
+      "level": "Avancerad",
       "keywords": [
-        "React",
-        "Node.js",
-        "Django",
-        "Flask"
-      ]
-    },
-    {
-      "name": "DevOps",
-      "level": "Advanced",
-      "keywords": [
-        "Docker",
-        "Kubernetes",
-        "CI/CD",
-        "AWS"
+        "Fri och öppen källkod",
+        "Webbutveckling",
+        "WordPress",
+        "HTML",
+        "CSS",
+        "PHP"
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native"
+      "language": "Svenska",
+      "fluency": "Modersmål"
     },
     {
-      "language": "Swedish",
-      "fluency": "Native"
+      "language": "Engelska",
+      "fluency": "Flytande"
     }
   ],
   "interests": [
     {
-      "name": "Open Source Contributions",
-      "keywords": [
-        "GitHub",
-        "Community Projects"
-      ]
+      "name": "Civic Tech",
+      "keywords": ["Öppen data", "Medborgarengagemang"]
     },
     {
-      "name": "Artificial Intelligence",
-      "keywords": [
-        "Machine Learning",
-        "Neural Networks"
-      ]
+      "name": "Processdesign",
+      "keywords": ["Designtänk", "Facilitering"]
     }
   ],
   "references": [
     {
-      "name": "Jane Doe",
+      "name": "Rolf Källman",
       "reference": "Mattias is a highly skilled and dedicated software engineer. He consistently delivers high-quality work and is a pleasure to work with."
     }
   ]
 }
-```
