@@ -20,3 +20,29 @@ en:
 #      - name: 传
 #        url: '#about'
 #        weight: 1
+
+# main:
+#  - name: Bio
+#    url: /
+#    weight: 10
+# - name: Publikationer
+#   url: /#papers
+#   weight: 11
+#  - name: Föreläsningar
+#    url: /#talks
+#    weight: 12
+#  - name: Nyheter
+#    url: /#news
+#    weight: 13
+#  - name: Erfarenheter
+#    url: experience/
+#    weight: 20
+#  - name: Projekt
+#    url: projects/
+#    weight: 30
+#  - name: Lärande
+#    url: teaching/
+#    weight: 40
+#  - name: Referenser
+#    url: references/
+#    weight: 50
