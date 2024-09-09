@@ -59,7 +59,7 @@ as Mattias' client at Fores, 2014
 
 #### Julius Paplauskas, Co-Creating Communities Lithuania
 
-“*First of all, what I noticed about you was your professionalism. On time, focused, helpful, calm, knowledgeable, prepared. And I think you hold a very interesting perspective on business and various aspects of it. Don't lose it. Also, for me personally it was very easy to work with you, because I could connect on the human level.
+“*First of all, what I noticed about you was your professionalism. On time, focused, helpful, calm, knowledgeable, prepared. And I think you hold a very interesting perspective on business and various aspects of it. Don't lose it. Also, for me personally it was very easy to work with you, because I could connect on the human level.*
 
 - Julius Paplauskas
 Co-Creating Communities Lithuania
@@ -75,7 +75,7 @@ at Region Stockholm North, Posten Meddelande AB, 2013
 
 #### Beate Lindqvist and Monica Valenzuela, SAP AG
 
-“*Mr. Mattias Axell, born on October 18, 1992 in Gävle, Sweden, worked as a student trainee in the Suite Core On Premise Suite (OPS) Projects department of our company from June 21, 2010 through July 16, 2020.
+“*Mr. Mattias Axell, born on October 18, 1992 in Gävle, Sweden, worked as a student trainee in the Suite Core On Premise Suite (OPS) Projects department of our company from June 21, 2010 through July 16, 2020.*
 
 *His main tasks were:*
 
@@ -86,9 +86,9 @@ at Region Stockholm North, Posten Meddelande AB, 2013
     - Contact to SAP Streamwork development team to address feedback from product evaluation - from a non-SAP (Facebook) user perspective and also representing the team with their specific requirements 
     - Contact to a sustainability champion to get further insights
 
-*We would like to thank Mr. Axell for his very effective cooperation and wish him success in his studies and in the future.
-Walldorf, July 16, 2010
-SAP AG*”
+*We would like to thank Mr. Axell for his very effective cooperation and wish him success in his studies and in the future.*
+*Walldorf, July 16, 2010*
+*SAP AG*”
 
 - Beate Lindqvist and Monica Valenzuela
 Suite Core On Premise Suite (OPS) Projects 
@@ -96,9 +96,9 @@ that Mattias manages during internship at SAP Germany, 2010
 
 #### The Swedish Defense Research Agency
 
-“*Mattias has during his time at FOI worked with the registration of images in the agency's image database and also performed image editing and conversion of files between different image formats. Furthermore, Mattias has updated and edited pages on FOI's intranet. During his work, Mattias has demonstrated good knowledge of software such as EpiServer and ImageVault.
+“*Mattias has during his time at FOI worked with the registration of images in the agency's image database and also performed image editing and conversion of files between different image formats. Furthermore, Mattias has updated and edited pages on FOI's intranet. During his work, Mattias has demonstrated good knowledge of software such as EpiServer and ImageVault.*
 
-*Mattias Axell is extremely easy to work with and has shown personal maturity as well as initiative and humor.”
+*Mattias Axell is extremely easy to work with and has shown personal maturity as well as initiative and humor.*”
 - Anna-Lena Österborg, Head of Department, Research Support Division (2010)
 - Jessica Norlin, Acting Head of Division, Research Support Division (2009)
 - Mikael Sylvén, Head of Unit, Internal Services (2009 & 2010)
