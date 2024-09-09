@@ -18,7 +18,7 @@ sections:
       button:
         text: Check resume
 #        url: uploads/resume.pdf
-        url: /experience/
+        url: /experience
     design:
       css_class: dark
       background:

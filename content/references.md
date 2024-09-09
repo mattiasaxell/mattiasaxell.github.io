@@ -1,85 +1,90 @@
 ---
 title: 'References'
 date: 2023-10-24
+summary: At least these 7 people have written recommendations to me in the past and more are available. Contact information is available on request.
 ---
 
-#### Åtminstone dessa 7 personer har skrivit rekommendationer till mig tidigare och fler finns att tillgå. Kontaktinformation går att få på begäran.
+#### Introduction
 
-”*Mattias Axell har under 2016 anlitats av Digisam som processledare för det kreativa eventet och hackathonet Hack4Heritage som arrangerades i samarbete med Stockholms Stadsarkiv den 14-16 oktober 2016.*
+At least these 7 people have written recommendations to me in the past and more are available. Contact information is available on request.
 
-*Under första halvåret 2016 anlitade Digisam Mattias som konsult för en första planering och utveckla idéerna om Hack4Heritage som ett kreativt event och hack med fokus på öppna kulturarvsdata och andra öppna kulturarvsresurser.*
+#### Rolf Källman, The Swedish National Archives
 
-*Mattias anlitades därefter som en av två processledare som i nära samarbete med projektledaren vidareutvecklade processen och programmet för hela eventet, inklusive en föregående workshop som samlade organisationer som bidrog med data eller annat innehåll till eventet. Mattias idérikedom och vilja att alltid sikta högt har varit både till nytta och inspirerande, och med sitt trevliga och positiva sätt liksom goda samarbetsvilja gick han väl in i arbetslaget.*
+“*Mattias Axell has in 2016 been hired by Digisam as process manager for the creative event and hackathon Hack4Heritage, which was organized in collaboration with the Stockholm City Archives on 14-16 October 2016.*
 
-*Under eventet var Mattias alltid på plats och ledde engagerat processen framåt, både från scenen och ”från golvet” där alla lag var samlade. Mattias kompetens att facilitera processer och motivera grupper att arbeta mot gemensamma mål var en starkt bidragande faktor till att Hack4Heritage blev ett mycket lyckat arrangemang.*
+*During the first half of 2016, Digisam hired Mattias as a consultant to do initial planning and develop the ideas for Hack4Heritage as a creative event and hack focusing on open cultural heritage data and other open cultural heritage resources.*
 
-*Vi kan varmt rekommendera Mattias för liknande arbetsuppgifter och önskar honom lycka till i framtiden.*”
+*Mattias was then hired as one of two process managers who, in close collaboration with the project manager, further developed the process and program for the entire event, including a previous workshop that brought together organizations that contributed data or other content to the event. Mattias' inventiveness and willingness to always aim high has been both useful and inspiring, and with his pleasant and positive manner as well as good cooperation, he went well into the team.*
+
+*During the event, Mattias was always on site and enthusiastically led the process forward, both from the stage and “from the floor” where all teams were gathered. Mattias' competence to facilitate processes and motivate groups to work towards common goals was a strong contributing factor to Hack4Heritage being a very successful event.*
+
+*We can warmly recommend Mattias for similar tasks and wish him good luck in the future.*”
 
 - Rolf Källman
-Verksamhetsledare Digisam (vid Riksarkivet 2011-2016)
-som Mattias uppdragsgivare vid Hack4Heritage, 2016
+Operations Manager Digisam (at the National Archives 2011-2016)
+as Mattias' client at Hack4Heritage, 2016
 
-### Ellen Pettersson, Historiskt Hackathon
+#### Ellen Pettersson, Historical Hackathon
 
-“*Jag kan varmt rekommendera Mattias Axell. Mattias har under History Hack varit delaktig i att ge feedback och med co-facilitering av History Hack. Med sitt lugna sätt är Mattias duktig på att samarbeta, han är en målmedveten nätverkare och har förmåga att skapa struktur, sätta gränser och ta naturlig plats i gruppen. Mattias är självständig, drivande och den typen av kille du gärna vill ha med i ditt team. Mattias brinner för sina hjärtefrågor men är samtidigt lyssnande, respektfull och flexibel. Mattias har flera förmågor och är därför bra på att känna av läget för att komplettera med den typ av initiativ och kompetens som behövs för tillfället. Mattias har goda ledaregenskaper och är en person som är delaktig i samhällsbygget och inspirerar och motiverar människor omkring sig.*”
+“*I can highly recommend Mattias Axell. Mattias has during History Hack been involved in giving feedback and with co-facilitation of History Hack. With his calm manner, Mattias is good at collaborating, he is a determined networker and has the ability to create structure, set limits and take a natural place in the group. Mattias is independent, driven and the kind of guy you want to have in your team. Mattias is passionate about his core issues but is also listening, respectful and flexible. Mattias has several abilities and is therefore good at sensing the situation to complement with the type of initiative and competence needed at the moment. Mattias has good leadership qualities and is a person who is involved in building society and inspires and motivates people around him.*”
 
 - Ellen Pettersson,
-Grundare av Historiskt Hackathon
-som Mattias uppdragsgivare vid Historiskt Hackathon, 2016
+Founder of the Historical Hackathon
+as Mattias' client at the Historical Hackathon, 2016
 
-### Maria Jiborn, Trelleborgs kommun
+#### Maria Jiborn, Municipality of Trelleborg
 
-“*Under eventet History Hack som arrangerades av Trelleborgs Museum  18-19 aug. 2016 på STPLN i Malmö bistod Mattias Axell eventets processledare Ellen Pettersson. Mattias stöttade på ett lugnt och tryggt sätt upp där det behövdes i de planerade programpunkterna och tog på ett naturligt och lyhört sätt tag i situationer som uppkom under eventets gång. Mattias är kunnig och stabil och en hjälpsam och trevlig person som vi på Trelleborgs Museum mycket gärna rekommenderar.*”
+“*During the History Hack event organized by Trelleborgs Museum 18-19 Aug. 2016 at STPLN in Malmö, Mattias Axell assisted the event's process manager Ellen Pettersson. Mattias supported in a calm and confident way where needed in the planned program points and took in a natural and responsive way to situations that arose during the event. Mattias is knowledgeable and stable and a helpful and pleasant person who we at Trelleborgs Museum are very happy to recommend.*”
 - Maria Jiborn,
-Museipedagog vid Trelleborgs Museum,
-som Mattias klient vid Historiskt Hackathon, 2016
+Museum educator at Trelleborgs Museum,
+as Mattias' client at the Historical Hackathon, 2016
 
-### Mattias Goldmann, Fores
+#### Mattias Goldmann, Fores
 
-“*Till den det berör,*
+“*To whom it may concern,*
 
-*Vi har under november månad 2014 anlitat Mattias Axell, som inom ramen för sin utbildning hos Kaospiloterna har bistått oss med att utveckla vår organisation.*
+*In November 2014, we hired Mattias Axell, who assisted us in developing our organization as part of his training with Kaospilot*.
 
-*Det specifika uppdraget var att bistå oss i processen kring att ta fram mätbara mål för verksamheten, vilket inte är helt lätt för en ideell tankesmedja.*
+*The specific assignment was to assist us in the process of developing measurable goals for the organization, which is not easy for a non-profit think tank*.
 
-*I detta arbete har Mattias varit till stor hjälp, och mycket kraftigt bidragit till att vi på ett par veckor kommit längre än vi tidigare gjort på sex år. Hans sätt att samla in och bearbeta synpunkter och erfarenheter från gruppen, hans förmåga att fånga in essensen av vad som sker på en arbetsplats, och hans sätt att leda våra diskussioner, har imponerat. Utöver det egentliga uppdraget har Mattias också bidragit till att flera andra organisationsfrågor nu kan hanteras på ett bättre sätt än tidigare, t.ex. Relationer mellan olika professioner, och hur vi strukturerar våra möten.*
+*In this work, Mattias has been a great help, and has contributed greatly to the fact that we have come further in a couple of weeks than we previously did in six years. His way of collecting and processing views and experiences from the group, his ability to capture the essence of what is happening in a workplace, and his way of leading our discussions, has been impressive. In addition to the actual assignment, Mattias has also contributed to the fact that several other organizational issues can now be handled in a better way than before, such as relations between different professions, and how we structure our meetings.*
 
-*Fores var redan tidigare en på det stora hela välfungerande arbetsplats, och med de senaste veckornas insats från Mattias har vi fått mycket värdefulla verktyg för att kunna förbättra oss ytterligare. Vi rekommenderar varmt, helhjärtat och förbehållslöst Mattias till liknande uppgifter och står till ert förfogande för ytterligare upplysningar.*”
+*FORES was already a generally well-functioning workplace, and with Mattias' efforts in recent weeks, we have gained very valuable tools to improve further. We warmly, wholeheartedly and unreservedly recommend Mattias for similar tasks and are at your disposal for further information.*”
 
 - Mattias Goldmann,
-VD vid Fores 
+CEO at Fores 
 Anna Halla, 
-Ekonomichef och Utvecklingsstrateg vid Fores
-som Mattias klient vid Fores, 2014
+Chief Financial Officer and Development Strategist at Fores
+as Mattias' client at Fores, 2014
 
-### Julius Paplauskas, Co-Creating Communities Lithuania
+#### Julius Paplauskas, Co-Creating Communities Lithuania
 
-”*First of all, what I noticed about you was your professionalism. On time, focused, helpful, calm, knowledgeable, prepared. And I think you hold a very interesting perspective on business and various aspects of it. Don't lose it. Also, for me personally it was very easy to work with you, because I could connect on the human level.*”
+“*First of all, what I noticed about you was your professionalism. On time, focused, helpful, calm, knowledgeable, prepared. And I think you hold a very interesting perspective on business and various aspects of it. Don't lose it. Also, for me personally it was very easy to work with you, because I could connect on the human level.
 
 - Julius Paplauskas
 Co-Creating Communities Lithuania
-som klient vid Co-Creating Communities Lithuania, 2014
+as a client of Co-Creating Communities Lithuania, 2014
 
 #### Vandana Sharma, PostNord Sverige AB
 
-”*Mattias har utfört sitt arbete med stort engagemang och dessutom som person och medarbetare aktivt bidragit till ett utvecklande och bra teamarbete inom enheten.*”
+“*Mattias has performed his work with great commitment and also as a person and employee actively contributed to a developing and good teamwork within the unit.*”
 
 - Vandana Sharma,
-Produktionsledare & Creative Coach Internkommunikation 
-vid Region Stockholm Nord, Posten Meddelande AB, 2013
+Production Manager & Creative Coach Internal Communication 
+at Region Stockholm North, Posten Meddelande AB, 2013
 
-### Beate Lindqvist and Monica Valenzuela, SAP AG
+#### Beate Lindqvist and Monica Valenzuela, SAP AG
 
-”*Mr. Mattias Axell, born on October 18, 1992 in Gävle, Sweden, worked as a student trainee in the Suite Core On Premise Suite (OPS) Projects department of our company from June 21, 2010 through July 16, 2020.*
+“*Mr. Mattias Axell, born on October 18, 1992 in Gävle, Sweden, worked as a student trainee in the Suite Core On Premise Suite (OPS) Projects department of our company from June 21, 2010 through July 16, 2020.
 
 *His main tasks were:*
 
-    • Evaluation of SAP Streamwork as Collaboration tool for agile teams for internal and external collaboration within projects (internal for project work and external for customer validation and interaction during the project tasks)
-    • Introduction of SAP Streamwork to the Quality Management Product Team and presentation of benefits and possible value for the team and project
-    • Transformation of Quality Management presentations into latest SAP layout for usage at events and customer meetings
-    • Support of product owner in terms of transforming specification requirements (from specification versions before LEAN introduction) into so-called backlog items and preparation of later project tasks
-    • Contact to SAP Streamwork development team to address feedback from product evaluation – from a non-SAP (Facebook) user perspective and also representing the team with their specific requirements 
-    • Contact to a sustainability champion to get further insights
+    - Evaluation of SAP Streamwork as Collaboration tool for agile teams for internal and external collaboration within projects (internal for project work and external for customer validation and interaction during the project tasks)
+    - Introduction of SAP Streamwork to the Quality Management Product Team and presentation of benefits and possible value for the team and project
+    - Transformation of Quality Management presentations into latest SAP layout for usage at events and customer meetings
+    - Support of product owner in terms of transforming specification requirements (from specification versions before LEAN introduction) into so-called backlog items and preparation of later project tasks
+    - Contact to SAP Streamwork development team to address feedback from product evaluation - from a non-SAP (Facebook) user perspective and also representing the team with their specific requirements 
+    - Contact to a sustainability champion to get further insights
 
 *We would like to thank Mr. Axell for his very effective cooperation and wish him success in his studies and in the future.
 Walldorf, July 16, 2010
@@ -87,14 +92,14 @@ SAP AG*”
 
 - Beate Lindqvist and Monica Valenzuela
 Suite Core On Premise Suite (OPS) Projects 
-som Mattias chefer under praktik vid SAP Tyskland, 2010
+that Mattias manages during internship at SAP Germany, 2010
 
-### FOI (Swedish Defence Research Agency)
+#### The Swedish Defense Research Agency
 
-“*Mattias har under sin tid på FOI arbetat med registrering av bilder i myndighetens bilddatabas och även utfört bildredigering och konvertering av filer mellan olika bildformat. Vidare har Mattias uppdaterat och redigerat sidor på FOI:s intranät. Under arbetet har Mattias visat prov på goda kunskaper i programvaror som t.ex. EpiServer och ImageVault.*
+“*Mattias has during his time at FOI worked with the registration of images in the agency's image database and also performed image editing and conversion of files between different image formats. Furthermore, Mattias has updated and edited pages on FOI's intranet. During his work, Mattias has demonstrated good knowledge of software such as EpiServer and ImageVault.
 
-*Mattias Axell är synnerligen lätt att samarbeta med och har visat prov på såväl personlig mognad som initiativkraft och humor.*“
-- Anna-Lena Österborg, Avdelningschef, Avdelningen för Forskningsstöd (2010)
-- Jessica Norlin, Tjf Avdelningschef, Avdelningen för Forskningsstöd (2009)
-- Mikael Sylvén, Enhetschef, Internservice (2009 & 2010)
-vid FOI (Totalförsvarets Forskningsinstitut), 2009 & 2010
+*Mattias Axell is extremely easy to work with and has shown personal maturity as well as initiative and humor.”
+- Anna-Lena Österborg, Head of Department, Research Support Division (2010)
+- Jessica Norlin, Acting Head of Division, Research Support Division (2009)
+- Mikael Sylvén, Head of Unit, Internal Services (2009 & 2010)
+at FOI (Swedish Defence Research Agency), 2009 & 2010

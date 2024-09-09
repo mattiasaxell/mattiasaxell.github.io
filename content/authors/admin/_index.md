@@ -39,7 +39,7 @@ profiles:
     url: https://x.com/mattiasaxell
 # - icon: brands/instagram
 #    url: https://www.instagram.com/
-#  - icon: brands/gitlab
+# - icon: brands/gitlab
 #    url: https://gitlab.com/mattiasaxell
   - icon: brands/github
     url: https://github.com/mattiasaxell
@@ -51,7 +51,7 @@ profiles:
 #    url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
+  - Design
   - Linked Open Data
   - Metadata
   - Freedom of Information
@@ -63,72 +63,103 @@ education:
     date_start: 2013-08-01
     date_end: 2016-06-18
     summary: |
-      Thesis on why _Freedom of Information_ is awesome when it's easily available as a citizen right and easy to use digitally. Supervised by [MsC Pete Sims](https://www.kaospilot.dk/obituary-for-pete-sims/). Presented project at 3 conferences with the contributions and project being discussed at conference panels.
+      Thesis on how _Freedom of Information_ is supporting to create value when it's easily available as a citizen right and easy to use digitally. Supervised by [MsC Pete Sims](https://www.kaospilot.dk/obituary-for-pete-sims/). Presented project at 3 conferences with the contributions and project being discussed at conference panels.
  #   button:
  #     text: 'Read Thesis'
  #     url: 'https://example.com'
-#  - area: MEng Artificial Intelligence
-#    institution: Gothenburg University
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-#      GPA: 3.8/4.0
-#
-#      Courses included:
+  - area: Citizen Science
+    institution: Gothenburg University
+    date_start: 2019-09-01
+    date_end: 2020-02-06
+    summary: |
+      Grade: Very Good
+
+      Courses included:
+      - Citizen Science - theory and practice
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - area: BSc Artificial Intelligence
-#    institution: Kungsholmen Gymnasium
-#    date_start: 2008-08-10
-#    date_end: 2011-06-11
-#    summary: |
-#      GPA: 21.5/22.5
-#      Courses included:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: Social science
+    institution: Kungsholmen High School
+    date_start: 2008-08-10
+    date_end: 2011-06-11
+    summary: |
+      GPA: 21.5/22.5
+      Courses included:
+      - Social science
+      - Natural science
+      - Mathematics
 work:
   - position: Chief Experience Officer
     company_name: MetaSolutions
     company_url: 'https://entryscape.com'
     company_logo: ''
-    date_start: 2020-04-20
+    date_start: 2023-04-20
     date_end: ''
+    summary: |2-
+      Responsibilities and achievements include:
+      - Transformed company from inside-out based innovation process to combining niche expertise with prospecting customer and existing customer needs supporting new sales and upsales.
+      - Establishing conscious work culture focused on raising the Customer Satisfaction Measurement where customers became ambassadors on marketing website materials and webinar co-hosts educating and marketing to prospecting customers.
+      - Developed and packaged partnerships model growing from 1 to 10 partners.
+      - Handling multiple complex customer projects both related to product and consulting.
+  - position: Customer Success Manager
+    company_name: MetaSolutions
+    company_url: 'https://entryscape.com'
+    company_logo: ''
+    date_start: 2020-04-20
+    date_end: 2023-04-20
     summary: |2-
       Responsibilities and achievements include:
       - Created and facilitated user community support forum which before was non-existent. Established FAQ sections covering majority of support issues.
       - Conceptualized, designed and launched services section of the company website meeting demand from customer base.
       - Planned, designed and executed marketing webinar series promoting open source product and services.
-      - Transformed company from inside-out based innovation process to combining niche expertise with prospecting customer and existing customer needs supporting new sales and upsales.
-      - Establishing conscious work culture focused on raising the Customer Satisfaction Measurement where customers became ambassadors on marketing website materials and webinar co-hosts educating and marketing to prospecting customers.
       - Created foundational tech support framework process including use of user support forum, help desk for technical support, user documentation.
-      - Developed and packaged partnerships model growing from 1 to 10 partners.
-      - Handling multiple complex customer projects both related to product and consulting. 
+      - Handling multiple complex customer projects both related to product and consulting.
   - position: Chief Technology Officer
     company_name: Handlingar.se
-    company_url: ''
+    company_url: 'https://handlingar.se'
     company_logo: ''
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    # date_end: 
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Leadership of people such as volunteer management
+      - Technical development
+      - Project management
+  - position: Chief Technology Officer
+    company_name: The Pepper Quest
+    company_url: 'https://thepepperquest.com'
+    company_logo: ''
+    date_start: 2020-01-01
+    date_end: 2020-06-26
+    summary: |2-
+      Responsibilities include:
+      - Implementing referral system connected to Shopify
+      - Launching team wide real time chat
+      - Developing e-commerce website
+  - position: Project Leader & Business Developer
+    company_name: Datatrion
+    company_url: 'https://datatrion.se'
+    company_logo: ''
+    date_start: 2019-06-01
+    date_end: 2019-12-01
+    summary: |2-
+      Responsibilities include:
+      - Leading customer projects
+      - Account management
+      - Business development
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Spreadsheets
         description: ''
-        percent: 80
+        percent: 60
         icon: code-bracket
-      - name: Data Science
+      - name: DevOps
         description: ''
-        percent: 100
+        percent: 40
         icon: chart-bar
       - name: SQL
         description: ''
@@ -142,11 +173,11 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Bicycles
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Reading
         description: ''
         percent: 80
         icon: camera
@@ -163,32 +194,32 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+# awards:
+#  - title: Neural Networks and Deep Learning
+#    url: https://www.coursera.org/learn/neural-networks-deep-learning
+#    date: '2023-11-25'
+#    awarder: Coursera
+#    icon: coursera
+#    summary: |
+#      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+#  - title: Blockchain Fundamentals
+#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#    date: '2023-07-01'
+#    awarder: edX
+#    icon: edx
+#    summary: |
+#      Learned:
+#      - Synthesize your own blockchain solutions
+#      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+#      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+#  - title: 'Object-Oriented Programming in R'
+#    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+#    certificate_url: https://www.datacamp.com
+#    date: '2023-01-21'
+#    awarder: datacamp
+#    icon: datacamp
+#    summary: |
+#      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
