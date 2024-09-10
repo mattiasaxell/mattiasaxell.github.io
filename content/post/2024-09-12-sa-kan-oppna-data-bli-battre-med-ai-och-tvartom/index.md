@@ -42,7 +42,7 @@ På **dataportal.se** finns många typer av öppna data tillgängliga från olik
 2. **Ekonomi och finans**: Information om statliga utgifter, skatter och finansmarknader.
 3. **Hälsa och sjukvård**: Data om folkhälsa, sjukhusstatistik och vårdresurser.
 4. **Befolkning och samhälle**: Statistik om befolkning, sysselsättning och utbildning.
-5. **Transport och infrastruktur**: Information om vägtrafik, kollektivtrafik och infrastrukturprojekt【9†source】【11†source】.
+5. **Transport och infrastruktur**: Information om vägtrafik, kollektivtrafik och infrastrukturprojekt.
 6. **Turism**: Det saknas en tydlig kategori för turism, men VisitSweden även om vissa relaterade data kan hittas under andra kategorier.
 
 ### Saknade datamängder:
@@ -51,9 +51,7 @@ Arbetsmarknad: Saknas data om arbetsmarknaden, t.ex. snitt i arbetstid, arbetsf�
 
 Sammanfattningsvis är Sveriges dataportal en rik källa för öppna data, men vissa områden kan vara underrepresenterade beroende på sektorn.
 
-Vilka hinder det finns idag och vad som hade behövt hända för att göra datan ännu enklare att jobba med / annan typ av data som borde göras öppen som inte finns att tillgå idag. 
-
-Svar: 	
+Vilka hinder det finns idag och vad som hade behövt hända för att göra datan ännu enklare att jobba med / annan typ av data som borde göras öppen som inte finns att tillgå idag.
 
 ### Vad finns det för hinder för öppna data idag?
 
@@ -79,14 +77,13 @@ Svar:
 
 5. **Utveckling av tekniska verktyg**: Bättre verktyg och API:er som gör det enklare att söka, filtrera och bearbeta data kan bidra till att fler använder den. Detta skulle underlätta för utvecklare, forskare och entreprenörer att bygga nya tjänster baserade på öppna data.
 
-
 # Vem kan och bör driva på utvecklingen av öppna data? 
 
 Utvecklingen av öppna data kräver samverkan mellan flera aktörer, både från politiken och från offentliga myndigheter. Här är några viktiga aktörer som kan och bör driva på utvecklingen:
 1. Politiskt ledarskap
 - Regeringen: Regeringen har en central roll genom att sätta nationella mål och strategier för digitalisering och öppna data. Genom regleringsbrev kan de styra myndigheters arbete med att tillgängliggöra data. Det handlar ofta om att främja transparens, innovation och effektivisering inom offentlig sektor. Exempelvis kan specifika direktiv om att öppna upp viss data ges till myndigheter i regleringsbreven, vilket är ett kraftfullt styrmedel.
 - Departement: Olika departement (som Näringsdepartementet och Finansdepartementet) kan ha ansvar för områden som rör digitalisering och innovation. De kan stödja initiativ genom att främja policyer och investeringar i infrastruktur för öppna data.
-- Regionstyren: Kan fatta beslut om öppna data, interna data och datadelning som prioriterat uppdrag inom kommunen för digitalisering.
+- Regionstyren: Kan fatta beslut om öppna data, interna data och datadelning som prioriterat uppdrag inom region för digitalisering.
 - Kommunstyrelser: Kan fatta beslut om öppna data, interna data och datadelning som prioriterat uppdrag inom kommunen för digitalisering.
 2. Myndigheter och tjänstemän
 - Myndigheten för digital förvaltning (Digg): Digg har en ledande roll i att samordna arbetet med digitalisering och öppna data på nationell nivå. De arbetar för att utveckla standarder och vägledningar som ska göra det enklare för andra myndigheter att dela data.
