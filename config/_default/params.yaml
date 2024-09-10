@@ -40,12 +40,12 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Mattias Axell. This work is licensed under {license}'
+    notice: '© {year} Mattias Axell. This work is licensed under {license} except where others are noted to be copyright holders.'
     license:
       enable: true
-      allow_derivatives: false
+      allow_derivatives: true
       share_alike: true
-      allow_commercial: false
+      allow_commercial: true
 
 # Localization
 locale:
