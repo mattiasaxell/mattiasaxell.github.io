@@ -33,7 +33,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Research and Work'
       subtitle: ''
       text: |-
         I'm a design thinker and process designer working at MetaSolutions AB with EntryScape and running Handlingar.se through a Swedish not-for-profit organization. I blog about open data, digital rights, learning and impact projects.

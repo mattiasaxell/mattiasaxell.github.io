@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "På väg mot en digital offentlighetsprincip – slutrapport från projektet Undervaka"
 draft: true
 authors:
 - admin
@@ -18,19 +18,19 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Offentlighetsprincipen är i praktiken redan digitaliserad - majoriteten av de 290 kommunstyrelser som Undervaka har granskat lämnar ut handlingar i elektronisk form, snabbt och utan avgift. Medborgare och journalister har dock ingen laglig rätt att få ut allmänna handlingar i elektronisk form. Myndigheternas personal använder ibland avgifter och offentlighetsprincipens inbyggda ”pappersbroms” som informella medel för att försvåra utlämnanden till så kallade rättshaverister och andra ”besvärliga” personer. Få kommunala myndigheter arbetar aktivt med att öka insynen genom att exempelvis publicera sitt diarium på nätet. Sverige ligger efter andra stater där myndigheterna är skyldiga att publicera information i öppna format. Dagens lagstiftning leder till en ojämlik och svårförutsägbar tillgång till offentlig information i elektronisk form. Vissa myndigheter och tjänstemän är öppna och generösa. Andra värnar säkerheten, eller håller tillbaka på grund av okunskap eller ovilja. Företag som Lexbase/Verifiera, Ratsit, Hitta.se, Sirén och andra informationsmäklare är offentlighetsprincipens flitigaste användare, med journalistkåren på andra plats. Flera offentliganställda uttrycker oro för att offentlighetsprincipen i dess nuvarande form kan urholkas, eller till och med sättas ur spel, genom automatiserade massförfrågningar.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Undervaka har under våren 2017 mätt öppenheten i Sveriges kommunstyrelser med hjälp av ett nykonstruerat index, kompletterat med en öppen enkätundersökning.
 
 tags:
-- Large Language Models
+- Offentlighetsprincipen
 
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
+  url: https://undervaka.se
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
@@ -53,14 +53,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- undervaka
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
