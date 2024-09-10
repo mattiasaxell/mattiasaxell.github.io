@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mattias Axell / ماتياس / 马提亚
+title: Mattias Axell
 
 # Name pronunciation (optional)
 name_pronunciation: /ˈmɑtːiɑs/
@@ -24,7 +24,7 @@ role: Head of Customer Experience
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: MetaSolutions
+  - name: MetaSolutions AB
     url: https://entryscape.com/
 
 # Social network links
@@ -96,7 +96,7 @@ work:
     date_start: 2023-04-20
     date_end: ''
     summary: |2-
-      Responsibilities and achievements include:
+      Achievements include:
       - Transformed company from inside-out based innovation process to combining niche expertise with prospecting customer and existing customer needs supporting new sales and upsales.
       - Establishing conscious work culture focused on raising the Customer Satisfaction Measurement where customers became ambassadors on marketing website materials and webinar co-hosts educating and marketing to prospecting customers.
       - Developed and packaged partnerships model growing from 1 to 10 partners.
@@ -108,7 +108,7 @@ work:
     date_start: 2020-04-20
     date_end: 2023-04-20
     summary: |2-
-      Responsibilities and achievements include:
+      Achievements include:
       - Created and facilitated user community support forum which before was non-existent. Established FAQ sections covering majority of support issues.
       - Conceptualized, designed and launched services section of the company website meeting demand from customer base.
       - Planned, designed and executed marketing webinar series promoting open source product and services.
@@ -224,4 +224,4 @@ languages:
 
 ## About Me
 
-Mattias Axell is a Swedish entrepreneur and digital strategist, known for his work in sustainable development and digital innovation. He has a background in IT and marketing and has been involved in several initiatives promoting social and sustainable responsibility. Mattias Axell is also a speaker and advisor on digital transformation and sustainable business development.
+Mattias (ماتياس / 马提亚) Axell is a Swedish entrepreneur and digital strategist, known for his work in sustainable development and digital innovation. He has a background in IT and marketing and has been involved in several initiatives promoting social and sustainable responsibility. Mattias Axell is also a speaker and advisor on digital transformation and sustainable business development.
