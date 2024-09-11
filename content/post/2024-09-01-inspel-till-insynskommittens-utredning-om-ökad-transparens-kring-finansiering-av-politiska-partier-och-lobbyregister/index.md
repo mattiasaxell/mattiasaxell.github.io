@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Inspel till utredning om ökad transparens kring finansiering av politiska partier och lobbyregister"
+title:      "Inspel till Insynskommitténs utredning om ökad transparens kring finansiering av politiska partier och lobbyregister"
 subtitle:   "- Inskickat till Riksdagen via Regeringskansliets sekreterare"
 date:       2024-08-28 16:41:00
 author:     "Mattias Axell"
