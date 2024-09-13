@@ -73,3 +73,5 @@ Deltagare:
     - Mattias Axell, [MetaSolutions](https://metasolutions.se/)
     - Rasmus Häggkvist, Skoolie
     - Emelie Fågelstedt, Swedish JobTech (moderator)
+
+Sammanfattning finns hos [SwedishJobTech](https://www.swedishjobtech.se/post/ai-oppna-data-arbetsmarknad).
