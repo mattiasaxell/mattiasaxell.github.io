@@ -89,18 +89,20 @@ education:
       - Natural science
       - Mathematics
 work:
-  - position: Chief Experience Officer
+  - position: Head of Customer Experience
     company_name: MetaSolutions
     company_url: 'https://entryscape.com'
     company_logo: ''
     date_start: 2023-04-20
     date_end: ''
     summary: |2-
+      As Head of Customer Experience I work with developing the organization toward continously improving the customer experience, from brand awareness, marketing and sales all the way into MetaSolutions main development project EntryScape, the open source software for data and information management.
+      
       Achievements include:
       - Transformed company from inside-out based innovation process to combining niche expertise with prospecting customer and existing customer needs supporting new sales and upsales.
       - Establishing conscious work culture focused on raising the Customer Satisfaction Measurement where customers became ambassadors on marketing website materials and webinar co-hosts educating and marketing to prospecting customers.
       - Developed and packaged partnerships model growing from 1 to 10 partners.
-      - Handling multiple complex customer projects both related to product and consulting.
+      - Handled multiple complex customer projects both related to product and consulting.
   - position: Customer Success Manager
     company_name: MetaSolutions
     company_url: 'https://entryscape.com'
@@ -108,6 +110,8 @@ work:
     date_start: 2020-04-20
     date_end: 2023-04-20
     summary: |2-
+      As Customer Success Manager I was responsible for onboarding customers and ensuring high customer satisfaction. Responsible for the continuous support and building new relations with prospective customers. Worked with improving the different ways of customer support and customer experience with both customer focused tools and marketing tools.
+      
       Achievements include:
       - Created and facilitated user community support forum which before was non-existent. Established FAQ sections covering majority of support issues.
       - Conceptualized, designed and launched services section of the company website meeting demand from customer base.
