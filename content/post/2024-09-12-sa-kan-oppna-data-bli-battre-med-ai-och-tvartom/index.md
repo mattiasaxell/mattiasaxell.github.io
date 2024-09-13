@@ -5,7 +5,7 @@ subtitle:   "- Mina tankar om vad som behöver hända"
 date:       2024-09-12 12:00:00
 author:     "Mattias Axell"
 #header-img: "img/post-bg-05.jpg"
-draft: true
+draft: false
 summary: Swedish JobTech bjuder in till en dialog om hur möjligheten att skapa förbättringar på arbetsmarknaden genom öppna data kan accelereras med hjälp av AI - och tvärtom! Jag delar tankar om hur det kan ske.
 ---
 # Vad är öppna data och varför är det viktigt. Vilka möjligheter finns med öppna data på arbetsmarknadsområdet?
