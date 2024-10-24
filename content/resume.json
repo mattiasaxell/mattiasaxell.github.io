@@ -3,8 +3,8 @@
     "name": "Mattias Axell",
     "label": "Project leader",
     "image": "https://mattiasaxell.com/assets/mattias-axell-profile-kristina-alexandersson-cc-by-sa-4.png",
-    "email": "hi@mattias.axell.com",
-    "phone": "(046) 456-7890",
+    "email": "hi@mattiasaxell.com",
+    "phone": "(046)720553943",
     "url": "https://mattiasaxell.com",
     "summary": "Experienced designer with a passion for initiating, using and designing projects and solutions. Proficient in systems thinking, multi-stakeholder processes, technology and design methods.",
     "location": {
@@ -35,7 +35,7 @@
   "work": [
     {
       "company": "Libertadores Konsult",
-      "position": "VD",
+      "position": "Grundare",
       "url": "https://libertadores.se",
       "startDate": "2013-08-01",
       "summary": "Frilansande konsult inom projekt- och processledning, affärs- och konceptutveckling och webbutveckling. Fokus på design- och innovationsprocesser.",
@@ -47,7 +47,9 @@
     {
       "company": "Civic Tech Sweden",
       "position": "Nätverksstrateg",
+      "url": "https://civictech.se/",
       "startDate": "2019-02-01",
+      "endDate": "2019-06-19",
       "summary": "Bygger nätverk och gemenskap kring civic tech i Sverige.",
       "highlights": [
         "Fokus på mjukvara från civilsamhället som skapar samhällsvärde för medborgare."
@@ -56,6 +58,7 @@
     {
       "company": "Digidem Lab",
       "position": "Projektledare och Utbildare",
+      "url": "https://digidemlab.org",
       "startDate": "2018-10-01",
       "endDate": "2019-02-01",
       "summary": "Skapade och levererade utbildningar inom strategisk förändringsledning."
@@ -74,6 +77,7 @@
     {
       "company": "FrågaStaten.se",
       "position": "Projektledare",
+      "url": "https://okfn.se/",
       "startDate": "2015-06-01",
       "endDate": "2017-07-01",
       "summary": "Utvecklade och ledde öppet data-projektet FrågaStaten.se.",
@@ -85,6 +89,7 @@
     {
       "company": "Undervaka.se",
       "position": "Utvecklare och Rådgivare",
+      "url": "https://undervaka.se",
       "startDate": "2016-07-01",
       "summary": "Samarbetade med journaliststudenter och utvecklade projektet 'Operation Öppenhet'.",
       "highlights": [
@@ -95,6 +100,7 @@
     {
       "company": "Hack4Heritage",
       "position": "Processledare",
+      "url": "https://www.raa.se/tag/hack4heritage/",
       "startDate": "2016-02-01",
       "endDate": "2016-11-01",
       "summary": "Faciliterade designprocess för ett medskapande event för att använda öppna data inom kulturarv.",
@@ -119,6 +125,7 @@
     },
     {
       "institution": "Kungsholmens Gymnasium",
+      "url": "https://kungsholmensgymnasium.stockholm/",
       "area": "Samhällsvetenskap",
       "studyType": "Gymnasieexamen",
       "startDate": "2008",
@@ -131,6 +138,7 @@
     {
       "organization": "Open Knowledge Sverige",
       "position": "Vice Ordförande",
+      "url": "https://okfn.se",
       "startDate": "2015-02-01",
       "endDate": "2017-05-01",
       "summary": "Medgrundare och vice ordförande i föreningen för att öppna kunskap och data i Sverige.",
@@ -140,6 +148,7 @@
     },
     {
       "organization": "DFRI (Föreningen för Digitala Fri- och Rättigheter)",
+      "url": "https://www.dfri.se",
       "position": "Styrelseledamot",
       "startDate": "2019-02-01",
       "summary": "Styrelseledamot i föreningen som arbetar för digitala rättigheter."
