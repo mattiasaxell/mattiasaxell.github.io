@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Projekt'
 date: 2024-09-03
 type: landing
 
@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things which can make impact. Here are a selection of projects that I have worked on over the years.
+      title: Utvalda Projekt
+      text: Jag tycker om att göra saker som kan påverka. Här är ett urval av de projekt som jag har arbetat med under åren.
       filters:
         folders:
           - project

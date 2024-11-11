@@ -67,7 +67,7 @@ education:
     date_start: 2013-08-01
     date_end: 2016-06-18
     summary: |
-      Avhandling om hur _offentlighetsprincipen_ bidrar till att skapa värde när den är lättillgänglig som en medborgerlig rättighet och lätt att använda digitalt. Handleddes av [MsC Pete Sims] (https://www.kaospilot.dk/obituary-for-pete-sims/). Presenterade projektet vid 3 konferenser där bidragen och projektet diskuterades i konferenspaneler.
+      Avhandling om hur _offentlighetsprincipen_ bidrar till att skapa värde när den är lättillgänglig som en medborgerlig rättighet och lätt att använda digitalt. Handleddes av [MsC Pete Sims](https://www.kaospilot.dk/obituary-for-pete-sims/). Presenterade projektet vid 3 konferenser där bidragen och projektet diskuterades i konferenspaneler.
  #   button:
  #     text: 'Read Thesis'
  #     url: 'https://example.com'
