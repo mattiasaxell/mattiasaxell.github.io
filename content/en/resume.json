@@ -1,0 +1,206 @@
+{
+  "basics": {
+    "name": "Mattias Axell",
+    "label": "Project leader",
+    "image": "https://mattiasaxell.com/assets/mattias-axell-profile-kristina-alexandersson-cc-by-sa-4.png",
+    "email": "hi@mattiasaxell.com",
+    "phone": "(046)720553943",
+    "url": "https://mattiasaxell.com",
+    "summary": "Experienced designer with a passion for initiating, using and designing projects and solutions. Proficient in systems thinking, multi-stakeholder processes, technology and design methods.",
+    "location": {
+      "address": "Söder Mälarstrand 21",
+      "postalCode": "11820",
+      "city": "Stockholm",
+      "countryCode": "SE",
+      "region": "Uppland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mattiasaxell",
+        "url": "https://www.linkedin.com/in/mattiasaxell"
+      },
+      {
+        "network": "GitLab",
+        "username": "mattiasaxell",
+        "url": "https://gitlab.com/mattiasaxell"
+      },
+      {
+        "network": "GitHub",
+        "username": "mattiasaxell",
+        "url": "https://github.com/mattiasaxell"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Libertadores Konsult",
+      "position": "Grundare",
+      "url": "https://libertadores.se",
+      "startDate": "2013-08-01",
+      "summary": "Frilansande konsult inom projekt- och processledning, affärs- och konceptutveckling och webbutveckling. Fokus på design- och innovationsprocesser.",
+      "highlights": [
+        "Arbetat med kunder som Vision, Väddö Folkhögskola och Experio Lab.",
+        "Specialiserat på IT-lösningar med fri och öppen källkod."
+      ]
+    },
+    {
+      "company": "Civic Tech Sweden",
+      "position": "Nätverksstrateg",
+      "url": "https://civictech.se/",
+      "startDate": "2019-02-01",
+      "endDate": "2019-06-19",
+      "summary": "Bygger nätverk och gemenskap kring civic tech i Sverige.",
+      "highlights": [
+        "Fokus på mjukvara från civilsamhället som skapar samhällsvärde för medborgare."
+      ]
+    },
+    {
+      "company": "Digidem Lab",
+      "position": "Projektledare och Utbildare",
+      "url": "https://digidemlab.org",
+      "startDate": "2018-10-01",
+      "endDate": "2019-02-01",
+      "summary": "Skapade och levererade utbildningar inom strategisk förändringsledning."
+    },
+    {
+      "company": "Tarvalley AB",
+      "position": "Projektledare",
+      "url": "https://web.archive.org/web/20180119072433/http://www.tarvalley.com/",
+      "startDate": "2017-06-01",
+      "endDate": "2018-06-01",
+      "summary": "Projektledning inom organisations- och affärsutveckling, processledning samt marknadsföring.",
+      "highlights": [
+        "Ledde projekt inom VR, AR och 3D-grafik för kunder som Boliden och North Kingdom."
+      ]
+    },
+    {
+      "company": "FrågaStaten.se",
+      "position": "Projektledare",
+      "url": "https://okfn.se/",
+      "startDate": "2015-06-01",
+      "endDate": "2017-07-01",
+      "summary": "Utvecklade och ledde öppet data-projektet FrågaStaten.se.",
+      "highlights": [
+        "Fick 100 000 kr i bidrag från VINNOVA.",
+        "Ledde teknisk drift och konceptutveckling."
+      ]
+    },
+    {
+      "company": "Undervaka.se",
+      "position": "Utvecklare och Rådgivare",
+      "url": "https://undervaka.se",
+      "startDate": "2016-07-01",
+      "summary": "Samarbetade med journaliststudenter och utvecklade projektet 'Operation Öppenhet'.",
+      "highlights": [
+        "Utvecklade webbsidan med WordPress, HTML, CSS och PHP.",
+        "Fick 160 000 kr i bidrag från Internetfonden."
+      ]
+    },
+    {
+      "company": "Hack4Heritage",
+      "position": "Processledare",
+      "url": "https://www.raa.se/tag/hack4heritage/",
+      "startDate": "2016-02-01",
+      "endDate": "2016-11-01",
+      "summary": "Faciliterade designprocess för ett medskapande event för att använda öppna data inom kulturarv.",
+      "highlights": [
+        "Planerade och utvecklade en kreativ designprocess för 70 deltagare."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kaospilot",
+      "area": "Business Administration and Management (Kreativt Entreprenöriellt Ledarskap)",
+      "studyType": "Kandidatexamen",
+      "startDate": "2013",
+      "endDate": "2016",
+      "courses": [
+        "Kreativ projektledning",
+        "Kreativ affärsutveckling",
+        "Designtänk"
+      ],
+      "summary": "Teoretiska och praktiska kurser inom ledarskap, processledning och affärsutveckling."
+    },
+    {
+      "institution": "Kungsholmens Gymnasium",
+      "url": "https://kungsholmensgymnasium.stockholm/",
+      "area": "Samhällsvetenskap",
+      "studyType": "Gymnasieexamen",
+      "startDate": "2008",
+      "endDate": "2011",
+      "score": "3.8 GPA",
+      "summary": "Samhällsvetenskaplig linje med undervisning på engelska."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Open Knowledge Sverige",
+      "position": "Vice Ordförande",
+      "url": "https://okfn.se",
+      "startDate": "2015-02-01",
+      "endDate": "2017-05-01",
+      "summary": "Medgrundare och vice ordförande i föreningen för att öppna kunskap och data i Sverige.",
+      "highlights": [
+        "Drev projekt med stöd från EU-kommissionen och VINNOVA."
+      ]
+    },
+    {
+      "organization": "DFRI (Föreningen för Digitala Fri- och Rättigheter)",
+      "url": "https://www.dfri.se",
+      "position": "Styrelseledamot",
+      "startDate": "2019-02-01",
+      "summary": "Styrelseledamot i föreningen som arbetar för digitala rättigheter."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Projektledning",
+      "level": "Expert",
+      "keywords": [
+        "Processledning",
+        "Konceptutveckling",
+        "Affärsutveckling"
+      ]
+    },
+    {
+      "name": "IT",
+      "level": "Avancerad",
+      "keywords": [
+        "Fri och öppen källkod",
+        "Webbutveckling",
+        "WordPress",
+        "HTML",
+        "CSS",
+        "PHP"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Svenska",
+      "fluency": "Modersmål"
+    },
+    {
+      "language": "Engelska",
+      "fluency": "Flytande"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Civic Tech",
+      "keywords": ["Öppen data", "Medborgarengagemang"]
+    },
+    {
+      "name": "Processdesign",
+      "keywords": ["Designtänk", "Facilitering"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Rolf Källman",
+      "reference": "Mattias is a highly skilled and dedicated software engineer. He consistently delivers high-quality work and is a pleasure to work with."
+    }
+  ]
+}
