@@ -6,43 +6,38 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#sv:
-#  languageCode: sv-se
-#  contentDir: content/sv
+sv:
+  languageCode: sv-se
+  contentDir: content/sv
 #  title: Swedish website title...
 #  params:
 #    description: Site description in Swedish...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
-
-# main:
-#  - name: Bio
-#    url: /
-#    weight: 10
-# - name: Publikationer
-#   url: /#papers
-#   weight: 11
-#  - name: Föreläsningar
-#    url: /#talks
-#    weight: 12
-#  - name: Nyheter
-#    url: /#news
-#    weight: 13
-#  - name: Erfarenheter
-#    url: experience/
-#    weight: 20
-#  - name: Projekt
-#    url: projects/
-#    weight: 30
-#  - name: Lärande
-#    url: teaching/
-#    weight: 40
-#  - name: Referenser
-#    url: references/
-#    weight: 50
+  menu:
+    main:
+      - name: Bio
+        url: /
+        weight: 10
+#      - name: Publikationer
+#        url: /#papers
+#        weight: 11
+      - name: Föreläsningar
+        url: /#talks
+        weight: 12
+      - name: Nyheter
+        url: /#news
+        weight: 13
+      - name: Erfarenheter
+        url: experience/
+        weight: 20
+      - name: Projekt
+        url: projects/
+        weight: 30
+#      - name: Lärande
+#        url: teaching/
+#        weight: 40
+      - name: Referenser
+        url: references/
+        weight: 50
