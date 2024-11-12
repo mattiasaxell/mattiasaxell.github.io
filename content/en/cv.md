@@ -1,15 +1,15 @@
 ---
 title: 'CV'
 date: 2024-09-09
-type: landing
 summary: Fullständigt CV. Uppdateras kontinuerligt.
+draft: false
 ---
 
-Fullständigt CV. Uppdateras kontinuerligt.
+# Fullständigt CV. Uppdateras kontinuerligt.
 
 # Anställningar
 
-VD, Libertadores Konsult
+Grundare, Libertadores Konsult
 Augusti 2013 – Idag
 Webbsida: https://libertadores.se
 Frilansande konsult. Jag gör frilansande arbeten som projekt- och processledare samt affärs- och konceptutvecklare för att kunna hjälpa till där min energi, perspektiv och kunskaper behövs. Fokuserar på innovations- och design-processer som involverar alla aktörer som berörs av respektive utveckling. Metodiken jag använder väljs dynamiskt under processens gång beroende på vilka behov som kommer fram och vad situationer kräver. Har bland annat jobbat med fackförbundet Vision, Väddö Folkhögskola, Experio Lab vid Landstinget i Värmland, Länsbiblioteket vid Region Västerbotten, Stiftelsen Svensk Industridesign (SVID) samt Digisam vid Riksarkivet, främst med det medskapande evenemanget Hack4Heritage. Tillhandahåller också stöd med IT-kunskaper inom främst mjukvara, speciellt mjukvara med Fri- och Öppen Källkod.
@@ -264,6 +264,7 @@ Augusti 2010 – December 2010
 Henrys Vänner är en lokal dotterorganisation till Röda Korset och del av Röda Korsets Ungdomsförbund. Föreningen arbetar med att upplysa om hållbar utveckling, globala orättvisor och mänskliga rättigheter. Innan dess var jag aktiv medlem och deltog i olika projekt som arrangerades.
 
 # Utbildning
+
 Kandidat i Business Administration and Management (Kreativt Entreprenöriellt Ledarskap), Kaospilot, 180 hp (ECTS)
 2013 – 2016 (3 år) Århus, Danmark
 
@@ -335,11 +336,11 @@ Hållbarhetsexpert
 
 Deltagare i expertpanel i boken “Hyfsat Hållbar”, listad som en av Sveriges 100 främsta Hållbarhetsexperter tillsammans med namn som Alice Bah Kunhke.
 
-Översättningsprojekt
-    • Översättare av den Fria och Öppna mjukvaran ”Alaveteli” som ligger till grund för plattformen FrågaStaten.se samt 25 motsvarande plattformar runt om i världen.
-    • Delaktig i översättningen av boken ”Lillebror” (Little Brother) av Cory Doctorow.
-    • Signal Private Messenger
-    • LibreTaxi
-    • Lineage OS
-    • Discourse
-    • TellForm
+# Översättningsprojekt
+- • Översättare av den Fria och Öppna mjukvaran ”Alaveteli” som ligger till grund för plattformen FrågaStaten.se samt 25 motsvarande plattformar runt om i världen.
+- Delaktig i översättningen av boken ”Lillebror” (Little Brother) av Cory Doctorow.
+- Signal Private Messenger
+- LibreTaxi
+- Lineage OS
+- Discourse
+- TellForm

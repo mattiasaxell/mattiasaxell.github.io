@@ -563,12 +563,16 @@
     ],
     "ids": [
       "about-me",
+      "anställningar",
       "att-ge-blod-kan-rädda-liv",
       "beate-lindqvist-and-monica-valenzuela-sap-ag",
       "dessutom-är-det-viktigt-att-lämna-ditt-samtycke",
       "ellen-pettersson-historical-hackathon",
       "ellen-pettersson-historiskt-hackathon",
       "foi-swedish-defence-research-agency",
+      "fullständigt-cv-uppdateras-kontinuerligt",
+      "färdigheter",
+      "föreläsningar",
       "hej-mattias-vem-är-du-och-varför-är-du-engagerad-i-swedish-jobtech",
       "hide-button",
       "hur-kan-ai-användas-för-att-skapa-lösningar-och-tjänster-på-arbetsmarknadsområdet",
@@ -579,6 +583,7 @@
       "introduktion",
       "julius-paplauskas-co-creating-communities-lithuania",
       "koncept",
+      "kurser",
       "maria-jiborn-municipality-of-trelleborg",
       "maria-jiborn-trelleborgs-kommun",
       "mattias-goldmann-fores",
@@ -612,6 +617,7 @@
       "show-button",
       "site-header",
       "slutsats",
+      "styrelseuppdrag",
       "sun",
       "talks",
       "teaching",
@@ -619,6 +625,7 @@
       "tillgänglig-hälsodeklaration-på-internet-sparar-tid-för-blodgivaren",
       "top",
       "unencrypted-recorded-calls-is-a-scandal-in-itself",
+      "utbildning",
       "vad-behöver-hända",
       "vad-finns-det-för-hinder-för-öppna-data-idag",
       "vad-har-ni-för-planer-framöver",
@@ -632,7 +639,8 @@
       "yet-another-1177se-scandal",
       "öppen-informationsmodell",
       "öppen-källkod",
-      "öppna-data-och-interoperabilitet"
+      "öppna-data-och-interoperabilitet",
+      "översättningsprojekt"
     ]
   }
 }
