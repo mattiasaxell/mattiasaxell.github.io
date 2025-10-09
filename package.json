@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^4.1.14"
+  },
+  "name": "mattiasaxell.github.io",
+  "description": "[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattiasaxell/mattiasaxell.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattiasaxell/mattiasaxell.github.io/issues"
+  },
+  "homepage": "https://github.com/mattiasaxell/mattiasaxell.github.io#readme"
+}
