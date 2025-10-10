@@ -18,7 +18,7 @@ sections:
       button:
         text: Se resumé
 #        url: uploads/resume.pdf
-        url: /experience
+        url: /sv/experience
     design:
       css_class: dark
       background:

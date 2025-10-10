@@ -1,7 +1,7 @@
 ---
 title: Folklabbet.se
 date: 2014-06-29
-external_link: https://folklabbet.se/
+link: https://folklabbet.se/
 tags:
   - ParticipatoryDesign
   - Design

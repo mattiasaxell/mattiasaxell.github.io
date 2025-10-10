@@ -1,7 +1,7 @@
 ---
 title: Undervaka.se
 date: 2017-06-25
-external_link: https://undervaka.se
+link:: https://undervaka.se
 tags:
   - FreedomOfInformation
   - RightToKnow
