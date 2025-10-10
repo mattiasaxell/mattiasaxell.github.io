@@ -1,5 +1,5 @@
 build:
-  hugo_version: '0.126.3'
+  hugo_version: '0.151.0'
   buildStats:
     enable: true
   cachebusters:
