@@ -6,7 +6,7 @@ date:       2025-10-07 08:30:00
 author:     "Mattias Axell"
 header-img: "featured.jpg"
 image:
-  caption: 'Image credit: [**Unknown**](https://unknown/)'
+  caption: 'Bildkälla: [**Lucas Petti**](https://br.linkedin.com/in/lucaspretti)'
 draft: false
 summary: Igår deltog jag i den första dagen av Open Government Partnership Global Summit i Vitoria-Gasteiz. Jag ser fram emot att bygga relationer och samarbeten här fram till fredag!🤝
 ---
