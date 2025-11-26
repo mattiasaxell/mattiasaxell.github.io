@@ -34,3 +34,4 @@ Länkar:
 - Om Open Knowledge Sweden https://okfn.se/en/
 - Arbete: MetaSolutions AB https://entryscape.com/
 - Linktree: https://mattiasaxell.nu/
+- Detta inlägg på Linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7381269647209234432/

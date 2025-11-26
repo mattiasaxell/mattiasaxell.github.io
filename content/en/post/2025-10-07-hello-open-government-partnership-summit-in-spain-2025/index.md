@@ -35,6 +35,7 @@ Links:
 - About Open Knowledge Sweden https://okfn.se/en/
 - Work: MetaSolutions AB https://entryscape.com/
 - Linktree: https://mattiasaxell.nu/
+- This post on LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7381269647209234432/
 
 ## In Spanish (🇪🇸🇨🇱🇦🇷🇲🇽): 
 
@@ -61,5 +62,4 @@ El evento fue similar al tradicional festival de la democracia sueca que se cele
 - Acerca de Open Knowledge Sweden https://okfn.se/en/
 - Trabajo: MetaSolutions AB https://entryscape.com/
 - Linktree: https://mattiasaxell.nu/
-
-
+- Esta publicación en Linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7381269647209234432/
