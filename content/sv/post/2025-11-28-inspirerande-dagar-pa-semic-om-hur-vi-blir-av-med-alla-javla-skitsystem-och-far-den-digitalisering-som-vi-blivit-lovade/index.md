@@ -52,5 +52,5 @@ Har du tankar kring digital suveränitet, semantik eller interoperabilitet? Hör
 Länkar:
 - SEMIC info: https://interoperable-europe.ec.europa.eu/collection/semic-conference
 - Streaming: https://interoperable-europe.ec.europa.eu/collection/semic-conference/live-streaming
-- MetaSolutions AB: https://entryscape.com/
+- MetaSolutions AB: https://entryscape.com/ 
 - Linktree: https://mattiasaxell.nu/
