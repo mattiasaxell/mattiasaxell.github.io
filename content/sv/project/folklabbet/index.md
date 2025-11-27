@@ -8,9 +8,11 @@ tags:
   - Workshop
 ---
 
-Folklabbet är ett initiativ som samlar människor kring att lösa samhällsutmaningar genom designmetoder som sätter människan i centrum.
+Folklabbet samlar människor för att lösa samhällsutmaningar tillsammans genom design.
 
 <!--more-->
+
+Folklabbet är ett initiativ som samlar människor kring att lösa samhällsutmaningar genom designmetoder som sätter människan i centrum.
 
 ## Koncept
 

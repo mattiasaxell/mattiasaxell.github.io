@@ -8,6 +8,8 @@ tags:
   - Ansible
 ---
 
-En svensk digital plattform som gör det enkelt att använda medborgarnas rätt till informationsfrihet - drivs av en öppen programvara med öppen källkod som heter [Alaveteli](https://alaveteli.org).
+En svensk digital plattform som gör det lätt att använda offentlighetsprincipen.
 
 <!--more-->
+
+En svensk digital plattform som gör det enkelt att använda medborgarnas rätt till informationsfrihet - drivs av en öppen programvara med öppen källkod som heter [Alaveteli](https://alaveteli.org).
