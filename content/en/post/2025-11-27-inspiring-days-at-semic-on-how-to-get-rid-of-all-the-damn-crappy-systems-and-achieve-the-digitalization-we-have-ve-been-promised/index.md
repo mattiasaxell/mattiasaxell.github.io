@@ -2,12 +2,12 @@
 layout: post
 title: “Inspiring days at SEMIC on how to get rid of all the “damn crappy systems” and achieve the digitalization we have ve been promised”
 subtitle: “About my participation with MetaSolutions and EntryScape in interoperability and digital sovereignty at SEMIC in Copenhagen”
-date: 2025-11-27 08:00:00
+date: 2025-11-27 07:00:00
 author: “Mattias Axell”
 header-img: “featured.jpg”
 image:
     caption: 'Image source: [**Mattias Axell**](https://mattiasaxell.com/)'
-draft: false
+draft: true
 summary: On November 25-26, 2025, I attended the SEMIC conference. It is Europe's leading event for semantic interoperability and digital public administration.
 ---
 
