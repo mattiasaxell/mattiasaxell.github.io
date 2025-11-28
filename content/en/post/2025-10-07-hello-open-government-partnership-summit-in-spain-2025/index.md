@@ -27,7 +27,7 @@ The event was like the traditional Swedish democracy festival in the start of th
 - Meeting Swedish central national government about the Open Government Partnership and representing civil society via the non-profit association Open Knowledge Sweden.
 - There is very much a need for more open government to enable government efficiency and reduce corruption.
 - Sweden is not viewed as a leader in transparency anymore, barely anyone talked about Sweden.
-- Many countries in Africa, Asia nad Latin America are making great strides towards increasing open government.
+- Many countries in Africa, Asia and Latin America are making great strides towards increasing open government.
 - Data needs to be rejuvenated with interoperability to enable more value and seamless magical experiences.
 
 Links: 

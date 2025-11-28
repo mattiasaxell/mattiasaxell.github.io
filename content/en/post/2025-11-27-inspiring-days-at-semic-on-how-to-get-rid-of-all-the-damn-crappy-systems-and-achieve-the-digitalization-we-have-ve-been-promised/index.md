@@ -49,6 +49,26 @@ SEMIC 2025 was a reminder that we in Sweden, through companies such as MetaSolut
 
 Do you have thoughts on digital sovereignty, semantics, or interoperability? Get in touch – let's continue the conversation!
 
+# Glossary
+A short, simple, and educational glossary:
+
+## Interoperability
+The ability of different systems, programs, or organizations to work together and exchange information without problems.
+(Think: “Everyone speaks the same language and understands each other immediately—no one needs an interpreter.”)
+
+## Linked Data
+A way of publishing and linking data on the web so that both people and computers can easily understand and use it.
+Data is given unique web addresses (URIs) and linked to each other with clear relationships.
+(Think: “Instead of data being stored in isolated silos, it becomes like a giant spider web where everything is connected.”)
+
+## Semantics
+The meaning behind words and data (not just the text or numbers themselves, but what they actually mean and how they are connected).
+In technology: when computers understand context and relationships, not just raw data.
+(Think: “The difference between reading the words ‘cat on the carpet’ and really understanding that it is a cat lying on a carpet in a room.”)
+
+## In summary:
+Semantics provides meaning → Linked data connects the data in a smart way → Interoperability allows different systems to use the common meaning without friction.
+
 Links:
 - SEMIC info: https://interoperable-europe.ec.europa.eu/collection/semic-conference
 - Streaming: https://interoperable-europe.ec.europa.eu/collection/semic-conference/live-streaming
