@@ -2,7 +2,7 @@
 layout: post
 title: "Inspirerande dagar på SEMIC om hur vi blir av med alla j*vla skitsystem och får den digitalisering som vi blivit lovade"
 subtitle: Om min medverkan med MetaSolutions och EntryScape på SEMIC i Köpenhamn om interoperabilitet och digital suveränitet"
-date: 2025-11-28 06:00:00
+date: 2025-11-27 08:30:00
 author: "Mattias Axell"
 header-img: "featured.jpg"
 image:
