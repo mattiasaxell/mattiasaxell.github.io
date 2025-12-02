@@ -218,6 +218,15 @@ awards:
     #image: /static/uploads/tidningen-rorelse-icon.webp
     summary: |
       DEBATT Åldersgränser för sociala medier är fel lösning på de problem techjättarna skapar.
+  - title: Sajt upplyser om kontroversiella Chat Control
+    url: https://www.pcforalla.se/article/1787804/ny-sajt-upplyser-om-kontroversiella-chat-control.html
+    date: '2023-04-17'
+    awarder: PC för Alla
+    icon: hero/magnifying-glass-circle
+    #image: /static/uploads/tidningen-rorelse-icon.webp
+    summary: |
+      “Största hotet mot nätet 2023” – i folkmun kallat Chat Control 2.0 – som bland annat skulle öppna för skanning av totalsträckskrypterade meddelandetjänster.
+    
 #  - title: Blockchain Fundamentals
 #    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #    date: '2023-07-01'
