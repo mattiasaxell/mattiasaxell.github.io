@@ -207,9 +207,17 @@ awards:
     url: https://www.svd.se/a/W0knJg/oppenhet-stoppar-fusk-och-korruption
     date: '2024-10-07'
     awarder: Svenska Dagbladet
-    icon: coursera
+    icon: hero/newspaper
     summary: |
       Sverige är det enda landet inom EU som inte delar öppna data om offentliga upphandlingar. Om sådan information görs tillgänglig minskar risken för bidragsfusk, ockerpriser och korruption, skriver debattörer.
+  - title: Kontrollera algoritmerna, inte medborgarna
+    url: https://www.tidningenrorelsen.se/p/kontrollera-algoritmerna-inte-medborgarnas
+    date: '2025-12-01'
+    awarder: Tidningen Rörelsen
+    icon: hero/speaker-wave
+    #image: /static/uploads/tidningen-rorelse-icon.webp
+    summary: |
+      DEBATT Åldersgränser för sociala medier är fel lösning på de problem techjättarna skapar.
 #  - title: Blockchain Fundamentals
 #    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #    date: '2023-07-01'
