@@ -1,0 +1,45 @@
+User-agent: *
+
+Sitemap: //localhost:1313/sitemap.xml
+
+# Block EVERYONE from accessing /sysslomansgatan-20-2rok-35kvm.html (or whatever the path is)
+
+User-agent: *
+Disallow: /sysslomansgatan-20-2rok-35kvm.html
+
+# Extra safety: explicitly block major AI crawlers too (some ignore the generic rule)
+User-agent: GPTBot
+Disallow: /sysslomansgatan-20-2rok-35kvm.html
+
+User-agent: ClaudeBot
+Disallow: /sysslomansgatan-20-2rok-35kvm.html
+
+User-agent: Google-Extended
+Disallow: /sysslomansgatan-20-2rok-35kvm.html
+
+User-agent: anthropic-ai
+Disallow: /sysslomansgatan-20-2rok-35kvm.html
+
+User-agent: Claude-Web
+Disallow: /sysslomansgatan-20-2rok-35kvm.html
+
+User-agent: Grok
+Disallow: /sysslomansgatan-20-2rok-35kvm.html
+
+User-agent: PerplexityBot
+Disallow: /sysslomansgatan-20-2rok-35kvm.html
+
+User-agent: Bytespider
+Disallow: /sysslomansgatan-20-2rok-35kvm.html
+
+User-agent: Amazonbot
+Disallow: /sysslomansgatan-20-2rok-35kvm.html
+
+User-agent: Omgilibot
+Disallow: /sysslomansgatan-20-2rok-35kvm.html
+
+User-agent: FacebookBot
+Disallow: /sysslomansgatan-20-2rok-35kvm.html
+
+User-agent: Diffbot
+Disallow: /sysslomansgatan-20-2rok-35kvm.html
