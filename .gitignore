@@ -27,5 +27,5 @@ public/backlinks.json
 public/index.html 
 public/index.xml 
 public/resume.json 
-public/robots.txt 
+# public/robots.txt 
 public/sitemap.xml
