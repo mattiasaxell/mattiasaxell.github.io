@@ -22,9 +22,12 @@ marketing:
     plausible: ''
     fathom: ''
     pirsch: ''
+    umami: ''
   verification:
     google: ''
     baidu: ''
+
+# <script defer src="https://cloud.umami.is/script.js" data-website-id="7057e362-88c0-49a4-80a7-0f2629a6feec"></script>
 
 # Site header
 header:

@@ -24,7 +24,7 @@ public/_headers
 public/_redirects 
 public/404.html 
 public/backlinks.json
-public/index.html 
+# public/index.html 
 public/index.xml 
 public/resume.json 
 # public/robots.txt 
