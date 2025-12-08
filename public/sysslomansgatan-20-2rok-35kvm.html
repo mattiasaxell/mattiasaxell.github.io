@@ -5,10 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Till salu – Sysslomansgatan 20 | Charmig 2:a med solig balkong</title>
     <meta name="description" content="Ljus och smart planerad 2:a med 6 kvm sydostbalkong, originaldetaljer från 1965 och fint badrum. Perfekt läge vid Fridhemsplan!">
-    
+    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Lightbox -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css">
-    
+    <!-- OpenStreetMap Leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <!-- PhotoSwipe CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/5.4.4/photoswipe.min.css">
     <style>
         :root {
             --primary: #c2410c;
@@ -71,7 +75,8 @@
 
         .fun-facts { display:grid; grid-template-columns:repeat(auto-fit, minmax(300px,1fr)); gap:24px; margin-top:40px; }
         .fun-fact { background:#fffaf0; padding:28px; border-radius:16px; border-left:5px solid var(--gold); }
-
+        /* OpenStreetMap-karta */
+        #map { height:500px; border-radius:16px; box-shadow:0 15px 40px rgba(0,0,0,0.15); }
         .map-container { height:500px; border-radius:16px; overflow:hidden; box-shadow:0 15px 40px rgba(0,0,0,0.15); }
 
         .contact {
@@ -103,11 +108,34 @@
     </style>
 </head>
 <body>
+<!-- PhotoSwipe root markup -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Stäng (Esc)"></button>
+                <button class="pswp__button pswp__button--fs" title="Helskärm"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zooma"></button>
+                <div class="pswp__preloader">...</div>
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Föregående"></button>
+            <button class="pswp__button pswp__button--arrow--right" title="Nästa"></button>
+            <div class="pswp__caption"><div class="pswp__caption__center"></div></div>
+        </div>
+    </div>
+</div>
 
     <header>
         <div class="container">
             <h1>Sysslomansgatan 20</h1>
-            <p class="price">4 700 000 SEK</p>
+            <p class="price">Fråga om pris!</p>
             <p>2 rum • 35 m² • Vån 9/9 • Hiss • 6 kvm balkong i sydost</p>
             <span class="tag">Sydöstläge - mycket sol • Smart planlösning • Toppläge Fridhemsplan</span>
         </div>
@@ -115,46 +143,72 @@
 
     <div class="container">
         <main>
-            <!-- Bildgalleri -->
-            <div class="card">
-                <div class="gallery">
-                    <a href="MED1EC65B54C483480793B175758221B051.avif" data-lightbox="home" data-title="Vardagsrum med härlig ljusinsläpp" class="gallery-item main">
-                        <img src="MED1EC65B54C483480793B175758221B051.avif" alt="Vardagsrum">
-                    </a>
-                    <a href="MED4A4F696696E94043978A4A5211E4ED43.avif" data-lightbox="home" data-title="Kök med ny Miele diskmaskin" class="gallery-item">
-                        <img src="MED4A4F696696E94043978A4A5211E4ED43.avif" alt="Kök">
-                    </a>
-                    <a href="MEDBCEFDF85C2714B4CA763BCBD70973FE3.avif" data-lightbox="home" data-title="Sovrum med parkutsikt" class="gallery-item">
-                        <img src="MEDBCEFDF85C2714B4CA763BCBD70973FE3.avif" alt="Balkong">
-                    </a>
-                    <a href="MED7C22C41D0E9C4182881AA08E2B9777E0.avif" data-lightbox="home" data-title="Fräscht badrum med tvättmaskin" class="gallery-item">
-                        <img src="MED7C22C41D0E9C4182881AA08E2B9777E0.avif" alt="Sovrum">
-                    </a>
-                    <a href="MEDD363C1A130E34CDA90583AFF60FF5587.avif" data-lightbox="home" data-title="Solig balkong mot sydost" class="gallery-item">
-                        <img src="MEDD363C1A130E34CDA90583AFF60FF5587.avif" alt="Badrum">
-                    </a>
 
-                    <!-- Övriga bilder i galleriet (osynliga men klickbara via Lightbox) -->
-                    <a href="MED2A722691C0BF464E8128F2114794BE1C.avif" data-lightbox="home" data-title="Hall"></a>
-                    <a href="MED43E49124B0874BF4AE0D39F939C03BA9.avif" data-lightbox="home" data-title="Detalj"></a>
-                    <a href="MED99B9DF12EA9640568E6F810C899963B3.avif" data-lightbox="home" data-title="Vardagsrum"></a>
-                    <a href="MED235B9A527BD243C49EC4CE9AF82ADE7C.avif" data-lightbox="home" data-title="Kök"></a>
-                    <a href="MED588DF2A8799D4C72B51D6895A2762863.avif" data-lightbox="home" data-title="Sovrum"></a>
-                    <a href="MED890D0C1150F94F95918ECA325E2662F9.avif" data-lightbox="home" data-title="Badrum"></a>
-                    <a href="MED7905DB0367124B2EA2A5B094F354F5DC.avif" data-lightbox="home" data-title="Balkong"></a>
-                    <a href="MED38059D1687C84A9FBA643EBD9AC30D69.avif" data-lightbox="home" data-title="Vy"></a>
-                    <a href="MED50544E0961D44ED19A5304ABAA05D4A6.avif" data-lightbox="home" data-title="Hall"></a>
-                    <a href="MED138172E4E9884ED7AC0332EEAFD8BE08.avif" data-lightbox="home" data-title="Detalj"></a>
-                    <a href="MED2227722D22F64CD59BE3733BD42215EB.avif" data-lightbox="home" data-title="Kök"></a>
-                    <a href="MEDA54BA914A06048ACA6775D6EDE5BC728.avif" data-lightbox="home" data-title="Sovrum"></a>
-                    <a href="MEDB344749B5749464EBBFFE3BA2D288C6D.avif" data-lightbox="home" data-title="Badrum"></a>
-                    <a href="MEDC28AD2CDC370437AA6E1E012AE8EF7A2.avif" data-lightbox="home" data-title="Balkong"></a>
-                    <a href="MEDD769161D2194438AB9C2F3B1310E1C4F.avif" data-lightbox="home" data-title="Utsikt"></a>
-                    <a href="MEDE6ED591C5D2C49ED855DE77DE22BD254.avif" data-lightbox="home" data-title="Vardagsrum"></a>
-                    <a href="MEDE55DA8EDF8F14C6AB1D0C34E6821E652.avif" data-lightbox="home" data-title="Detalj"></a>
-                    <a href="MED4CD3E282C1D048F9B25EE7EA27D3F7E8.avif" data-lightbox="home" data-title="Kök"></a>
-                </div>
-            </div>
+<!-- ======== PHOTOSWIPE GALLERI – AVIF ======== -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/5.4.4/photoswipe.min.css">
+
+<div class="card">
+    <div class="gallery" id="my-gallery">
+
+        <!-- 5 stora bilder som visas i layouten -->
+        <a href="MED1EC65B54C483480793B175758221B051.avif"
+           data-pswp-width="2000" 
+           data-pswp-height="1333"
+           data-title="Vardagsrum med härligt ljusinsläpp från stora fönster"
+           class="gallery-item main">
+            <img src="MED1EC65B54C483480793B175758221B051.avif" alt="Vardagsrum">
+        </a>
+
+        <a href="MED4A4F696696E94043978A4A5211E4ED43.avif"
+           data-pswp-width="2000" data-pswp-height="1333"
+           data-title="Helvitt kök med sprillans ny Miele-diskmaskin"
+           class="gallery-item">
+            <img src="MED4A4F696696E94043978A4A5211E4ED43.avif" alt="Kök">
+        </a>
+
+        <a href="MEDBCEFDF85C2714B4CA763BCBD70973FE3.avif"
+           data-pswp-width="2000" data-pswp-height="1333"
+           data-title="6 kvm solig balkong i sydost – sol från morgon till kväll"
+           class="gallery-item">
+            <img src="MEDBCEFDF85C2714B4CA763BCBD70973FE3.avif" alt="Balkong">
+        </a>
+
+        <a href="MED7C22C41D0E9C4182881AA08E2B9777E0.avif"
+           data-pswp-width="2000" data-pswp-height="1333"
+           data-title="Rofyllt sovrum med vy över Sysslomansparken"
+           class="gallery-item">
+            <img src="MED7C22C41D0E9C4182881AA08E2B9777E0.avif" alt="Sovrum">
+        </a>
+
+        <a href="MEDD363C1A130E34CDA90583AFF60FF5587.avif"
+           data-pswp-width="2000" data-pswp-height="1333"
+           data-title="Fräscht badrum med tvättmaskin och golvvärme"
+           class="gallery-item">
+            <img src="MEDD363C1A130E34CDA90583AFF60FF5587.avif" alt="Badrum">
+        </a>
+
+        <!-- Övriga 18 bilder (osynliga i layouten men med i galleriet) -->
+        <a href="MED2A722691C0BF464E8128F2114794BE1C.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Välkomnande hall med originalsten"></a>
+        <a href="MED43E49124B0874BF4AE0D39F939C03BA9.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Tidstypisk 60-talsdetalj"></a>
+        <a href="MED99B9DF12EA9640568E6F810C899963B3.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Vardagsrum mot balkongdörr"></a>
+        <a href="MED235B9A527BD243C49EC4CE9AF82ADE7C.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Köksdetalj med bra förvaring"></a>
+        <a href="MED588DF2A8799D4C72B51D6895A2762863.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Sovrum med garderobsvägg"></a>
+        <a href="MED890D0C1150F94F95918ECA325E2662F9.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Badrum – handdukstork och förvaring"></a>
+        <a href="MED7905DB0367124B2EA2A5B094F354F5DC.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Balkongvy mot sydost"></a>
+        <a href="MED38059D1687C84A9FBA643EBD9AC30D69.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Utsikt över taken"></a>
+        <a href="MED50544E0961D44ED19A5304ABAA05D4A6.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Hall med smart förvaring"></a>
+        <a href="MED138172E4E9884ED7AC0332EEAFD8BE08.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Vardagsrum mot kök"></a>
+        <a href="MED2227722D22F64CD59BE3733BD42215EB.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Köksö och matplats"></a>
+        <a href="MEDA54BA914A06048ACA6775D6EDE5BC728.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Sovrum mot lugnt gårdsläge"></a>
+        <a href="MEDB344749B5749464EBBFFE3BA2D288C6D.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Badrum – detalj"></a>
+        <a href="MEDC28AD2CDC370437AA6E1E012AE8EF7A2.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Balkong med plats för soffgrupp"></a>
+        <a href="MEDD769161D2194438AB9C2F3B1310E1C4F.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Utsikt mot Riddarfjärden i fjärran"></a>
+        <a href="MEDE6ED591C5D2C49ED855DE77DE22BD254.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Vardagsrum i kvällsljus"></a>
+        <a href="MEDE55DA8EDF8F14C6AB1D0C34E6821E652.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Originalfönster med djupa nischer"></a>
+        <a href="MED4CD3E282C1D048F9B25EE7EA27D3F7E8.avif" data-pswp-width="2000" data-pswp-height="1333" data-title="Kök med fullstor kyl/frys"></a>
+
+    </div>
+</div>
 
             <!-- Fakta -->
             <div class="card">
@@ -164,9 +218,13 @@
                         <div class="fact"><div class="value">35</div><div class="label">Boyta (m²)</div></div>
                         <div class="fact"><div class="value">2</div><div class="label">Rum</div></div>
                         <div class="fact"><div class="value">9/9</div><div class="label">Våning</div></div>
-                        <div class="fact"><div class="value">316 kr</div><div class="label">Avgift (sänks till 253 kr jan 2026)</div></div>
+                        <div class="fact"><div class="value">316 kr</div><div class="label">Avgift</div></div>
                         <div class="fact"><div class="value">6</div><div class="label">Balkong (m²)</div></div>
                         <div class="fact"><div class="value">1965</div><div class="label">Byggår</div></div>
+                        <div class="fact"><div class="value">2</div><div class="label">Hissar</div></div>
+                        <div class="fact"><div class="value">8</div><div class="label">Förråd (m²)</div></div>
+                        <div class="fact"><div class="value">04-16</div><div class="label">Soltid sommar</div></div>
+                        <div class="fact"><div class="value">09-14</div><div class="label">Soltid vinter</div></div>
                     </div>
 
                     <h2 style="margin-top:50px;">Månadsavgift & driftskostnad (ca för 2 personer)</h2>
@@ -188,7 +246,7 @@
                 <div class="section">
                     <h2>Välkommen hem till Sysslomansgatan 20</h2>
                     <p><strong>En liten lägenhet med stort hjärta – och massor av sol!</strong></p>
-                    <p>Denna charmiga och genomgående ljusa tvåa kombinerar 1960-talets eleganta arkitektur av Gösta Åbergh med moderna bekvämligheter och en oslagbar sydostbalkong. Här bor du lugnt men centralt – bara några minuter från Fridhemsplan, med parker, restauranger och kommunikationer runt knuten.</p>
+                    <p>Denna charmiga och genomgående ljusa tvåa kombinerar 1960-talets eleganta arkitektur i stilen New Modern Style av Gösta Åbergh med moderna bekvämligheter och en oslagbar sydostbalkong. Här bor du lugnt men centralt – bara några minuter från Fridhemsplan, med parker, restauranger och kommunikationer runt knuten.</p>
 
                     <h3>Kök</h3>
                     <p>Helvitt, tidlöst kök som renoverades med ny smart planlösning – öppnare och mer socialt. Ny Miele-diskmaskin (hösten 2025), fullstor kyl/frys, bra förvaring och plats för matbord.</p>
@@ -217,15 +275,15 @@
                     <div class="fun-facts">
                         <div class="fun-fact">
                             <h4>Sol 365 dagar om året</h4>
-                            <p>Balkongen är en solfälla! På midsommar från kl 04 till 16, på vinterns mörkaste dag ändå kl 09–15. Perfekt för D-vitamin och långa frukostar.</p>
+                            <p>Balkongen är en garant för sol! På midsommar från kl. 04 till 16, på vinterns mörkaste dag ändå kl. 10–14. Perfekt för D-vitamin och alla måltider.</p>
                         </div>
                         <div class="fun-fact">
-                            <h4>Stockholms mest optimerade 2:a</h4>
-                            <p>Genomtänkt planlösning där varje kvadratcentimeter är utnyttjad – känns betydligt större än 48 kvm.</p>
+                            <h4>En av Stockholms mest optimerade 2:a</h4>
+                            <p>Genomtänkt planlösning där varje kvadratcentimeter är utnyttjad – känns betydligt större än 35 kvm.</p>
                         </div>
                         <div class="fun-fact">
                             <h4>1965 möter 2025</h4>
-                            <p>Originalsten i hallen, stora fönster, tidstypisk charm – men med sprillans ny Miele-diskmaskin och toppskickat badrum.</p>
+                            <p>Originalsten i hallen, stora fönster, husets detaljer med tidstypisk charm – men med sprillans ny Miele-diskmaskin och badrum i toppskick.</p>
                         </div>
                         <div class="fun-fact">
                             <h4>Utsikt & läge</h4>
@@ -235,36 +293,61 @@
                 </div>
             </div>
 
-            <!-- Karta -->
-            <div class="card">
-                <div class="section">
-                    <h2>Läge & kommunikationer</h2>
-                    <div class="map-container">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2034.842451447569!2d18.032856!3d59.333248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d6b9b9b9b9b%3A0x9b9b9b9b9b9b9b9b!2sSysslomansgatan%2020%2C%20112%2028%20Stockholm!5e0!3m2!1ssv!2sse!4v1698000000000" 
-                                width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-                    </div>
-                    <p style="margin-top:20px;"><strong>Närmaste kommunikationer:</strong> T-bana Fridhemsplan (linje grön/blå), Thorildsplan, Rådhuset | Buss 1, 3, 4, 54, 56, 61, 91, 94 m.fl. | Pendeltåg Odenplan 10 min promenad.</p>
-                </div>
+<!-- Karta med OpenStreetMap -->
+        <div class="card">
+            <div class="section">
+                <h2>Läge & kommunikationer</h2>
+                <div id="map"></div>
+                <p style="margin-top:20px; text-align:center; color:var(--gray-600);">
+                    <strong>Närmaste kommunikationer:</strong> T-bana Fridhemsplan (grön/blå linje), Thorildsplan, Rådhuset · Buss 1, 3, 4, 54, 56, 61, 91, 94 m.fl. · Pendeltåg Odenplan 10 min promenad
+                </p>
             </div>
+        </div>
         </main>
     </div>
 
     <div class="contact">
         <div class="container">
-            <h2>Kär i lägenheten redan nu?</h2>
+            <h2>Intresserad av lägenheten nu?</h2>
             <p>Varmt välkommen på visning – kontakta mig för mer info eller privat visning!</p>
             <p><strong>Mattias Axell</strong><br>Lägenhetsägare<br>073-879 65 71 • hi@mattiasaxell.com</p>
             <a href="mailto:hi@mattiasaxell.com" class="btn">Boka visning eller skicka intresse</a>
         </div>
     </div>
+<!-- Leaflet + PhotoSwipe JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/5.4.4/photoswipe.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/5.4.4/photoswipe-lightbox.umd.min.js"></script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
-    <script>
-        lightbox.option({
-            'resizeDuration': 200,
-            'wrapAround': true,
-            'albumLabel': "Bild %1 av %2"
-        })
-    </script>
+<script>
+    // OpenStreetMap
+    const map = L.map('map').setView([59.3312805, 18.0245539], 17);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    const homeIcon = L.divIcon({
+        html: `<svg width="44" height="44" viewBox="0 0 24 24" fill="none" stroke="#c2410c" stroke-width="3.5"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>`,
+        iconSize: [44,44],
+        iconAnchor: [22,44],
+        popupAnchor: [0,-40]
+    });
+
+    L.marker([59.3312805, 18.0245539], {icon: homeIcon})
+        .addTo(map)
+        .bindPopup('<strong>Sysslomansgatan 20</strong><br>112 41 Stockholm')
+        .openPopup();
+
+    // PhotoSwipe
+    const lightbox = new PhotoSwipeLightbox({
+        gallery: '#my-gallery',
+        children: 'a',
+        pswpModule: PhotoSwipe,
+        wheelToZoom: true,
+        padding: { top: 40, bottom: 40, left: 40, right: 40 }
+    });
+    lightbox.init();
+</script>
+</script>
 </body>
 </html>

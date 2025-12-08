@@ -2,44 +2,83 @@ User-agent: *
 
 Sitemap: //localhost:1313/sitemap.xml
 
-# Block EVERYONE from accessing /sysslomansgatan-20-2rok-35kvm.html (or whatever the path is)
+# ===================================================================
+# Block ALL crawlers (search engines + AI training bots) from specific files & folders
+# ===================================================================
 
 User-agent: *
+Disallow: /MED1EC65B54C483480793B175758221B051.avif
+Disallow: /MED2A722691C0BF464E8128F2114794BE1C.avif
+Disallow: /MED4A4F696696E94043978A4A5211E4ED43.avif
+Disallow: /MED4CD3E282C1D048F9B25EE7EA27D3F7E8.avif
+Disallow: /MED7C22C41D0E9C4182881AA08E2B9777E0.avif
+Disallow: /MED43E49124B0874BF4AE0D39F939C03BA9.avif
+Disallow: /MED99B9DF12EA9640568E6F810C899963B3.avif
+Disallow: /MED235B9A527BD243C49EC4CE9AF82ADE7C.avif
+Disallow: /MED588DF2A8799D4C72B51D6895A2762863.avif
+Disallow: /MED890D0C1150F94F95918ECA325E2662F9.avif
+Disallow: /MED7905DB0367124B2EA2A5B094F354F5DC.avif
+Disallow: /MED38059D1687C84A9FBA643EBD9AC30D69.avif
+Disallow: /MED50544E0961D44ED19A5304ABAA05D4A6.avif
+Disallow: /MED138172E4E9884ED7AC0332EEAFD8BE08.avif
+Disallow: /MED2227722D22F64CD59BE3733BD42215EB.avif
+Disallow: /MEDA54BA914A06048ACA6775D6EDE5BC728.avif
+Disallow: /MEDB344749B5749464EBBFFE3BA2D288C6D.avif
+Disallow: /MEDBCEFDF85C2714B4CA763BCBD70973FE3.avif
+Disallow: /MEDC28AD2CDC370437AA6E1E012AE8EF7A2.avif
+Disallow: /MEDD363C1A130E34CDA90583AFF60FF5587.avif
+Disallow: /MEDD769161D2194438AB9C2F3B1310E1C4F.avif
+Disallow: /MEDE6ED591C5D2C49ED855DE77DE22BD254.avif
+Disallow: /MEDE55DA8EDF8F14C6AB1D0C34E6821E652.avif
+Disallow: /ad-images-avif/
+Disallow: /ad-images-webp/
 Disallow: /sysslomansgatan-20-2rok-35kvm.html
 
-# Extra safety: explicitly block major AI crawlers too (some ignore the generic rule)
+# ===================================================================
+# Explicitly block major AI training crawlers (some ignore the * rule)
+# These bots are used for LLM training in 2025–2026
+# ===================================================================
+
 User-agent: GPTBot
-Disallow: /sysslomansgatan-20-2rok-35kvm.html
-
-User-agent: ClaudeBot
-Disallow: /sysslomansgatan-20-2rok-35kvm.html
-
+User-agent: ChatGPT-User
 User-agent: Google-Extended
-Disallow: /sysslomansgatan-20-2rok-35kvm.html
-
 User-agent: anthropic-ai
-Disallow: /sysslomansgatan-20-2rok-35kvm.html
-
+User-agent: ClaudeBot
 User-agent: Claude-Web
-Disallow: /sysslomansgatan-20-2rok-35kvm.html
-
 User-agent: Grok
-Disallow: /sysslomansgatan-20-2rok-35kvm.html
-
+User-agent: xAI
 User-agent: PerplexityBot
-Disallow: /sysslomansgatan-20-2rok-35kvm.html
-
 User-agent: Bytespider
-Disallow: /sysslomansgatan-20-2rok-35kvm.html
-
 User-agent: Amazonbot
-Disallow: /sysslomansgatan-20-2rok-35kvm.html
-
-User-agent: Omgilibot
-Disallow: /sysslomansgatan-20-2rok-35kvm.html
-
 User-agent: FacebookBot
-Disallow: /sysslomansgatan-20-2rok-35kvm.html
-
+User-agent: Omgilibot
+User-agent: Omgili
 User-agent: Diffbot
+User-agent: Applebot-Extended
+User-agent: Meta-ExternalAgent
+Disallow: /MED1EC65B54C483480793B175758221B051.avif
+Disallow: /MED2A722691C0BF464E8128F2114794BE1C.avif
+Disallow: /MED4A4F696696E94043978A4A5211E4ED43.avif
+Disallow: /MED4CD3E282C1D048F9B25EE7EA27D3F7E8.avif
+Disallow: /MED7C22C41D0E9C4182881AA08E2B9777E0.avif
+Disallow: /MED43E49124B0874BF4AE0D39F939C03BA9.avif
+Disallow: /MED99B9DF12EA9640568E6F810C899963B3.avif
+Disallow: /MED235B9A527BD243C49EC4CE9AF82ADE7C.avif
+Disallow: /MED588DF2A8799D4C72B51D6895A2762863.avif
+Disallow: /MED890D0C1150F94F95918ECA325E2662F9.avif
+Disallow: /MED7905DB0367124B2EA2A5B094F354F5DC.avif
+Disallow: /MED38059D1687C84A9FBA643EBD9AC30D69.avif
+Disallow: /MED50544E0961D44ED19A5304ABAA05D4A6.avif
+Disallow: /MED138172E4E9884ED7AC0332EEAFD8BE08.avif
+Disallow: /MED2227722D22F64CD59BE3733BD42215EB.avif
+Disallow: /MEDA54BA914A06048ACA6775D6EDE5BC728.avif
+Disallow: /MEDB344749B5749464EBBFFE3BA2D288C6D.avif
+Disallow: /MEDBCEFDF85C2714B4CA763BCBD70973FE3.avif
+Disallow: /MEDC28AD2CDC370437AA6E1E012AE8EF7A2.avif
+Disallow: /MEDD363C1A130E34CDA90583AFF60FF5587.avif
+Disallow: /MEDD769161D2194438AB9C2F3B1310E1C4F.avif
+Disallow: /MEDE6ED591C5D2C49ED855DE77DE22BD254.avif
+Disallow: /MEDE55DA8EDF8F14C6AB1D0C34E6821E652.avif
+Disallow: /ad-images-avif/
+Disallow: /ad-images-webp/
 Disallow: /sysslomansgatan-20-2rok-35kvm.html

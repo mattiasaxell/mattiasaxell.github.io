@@ -49,8 +49,6 @@ Algoritmerna som styr flödena i sociala medier behöver göras transparenta. [F
 
 Folkhälsomyndigheten föreslår flera begränsningar man kan göra redan idag för att göra plattformarna säkrare för barn. Vi anser att ett första steg vore att ge användarna makt över algoritmerna och reglera plattformarna så att standardinställningar inte innehåller medvetet beroendeframkallande mekanismer.
 
-[Gör din röst hörd, skriv i Rörelsen\!](https://www.tidningenrorelsen.se/about)
-
 **Beroendeframkallande algoritmer leder till** försämrad hälsa och sämre skolresultat. Bristande ansvar för moderering av plattformarna skapar utrymme för hatkampanjer, hot och rekrytering till kriminella gäng.
 
 EU har redan kommit en bit på vägen att ställa krav på techjättarna genom regleringarna [Digital Services Act](https://en.wikipedia.org/wiki/Digital_Services_Act) (DSA) och [Digital Markets Act](https://en.wikipedia.org/wiki/Digital_Markets_Act) (DMA). Dessa krav behöver skärpas till ännu mer.
@@ -60,10 +58,6 @@ Det är viktigt att techjättarna tar sitt ansvar. Det är samtidigt viktigt att
 **Dessa förslag skulle vara en mycket bättre** användning av samhällets resurser än godtyckliga inskränkningar av medborgerliga fri- och rättigheter som riskerar att göra mer skada än nytta.
 
 ---
-Helena Viking, Jonathan Lange och Samuel Skånberg, från Kamratdataföreningen Konstellationen
-
-Irene Elmerot, Textforskare, språklärare, fil.dr
-
 Mattias Axell, ordförande Open Knowledge Sweden
 
 ## Länkar:
