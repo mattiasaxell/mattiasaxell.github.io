@@ -203,6 +203,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Våga trotsa Microsoft - så kan du undvika att kasta din dator
+    url: https://www.aktuellhallbarhet.se/opinion/debatt/vaga-trotsa-microsoft-sa-kan-du-undvika-att-kasta-din-dator
+    date: '2025-10-15'
+    awarder: Aktuell Hållbarhet
+    icon: hero/newspaper
+    summary: |
+      Många datorer kan inte uppgraderas till Windows 11. Resultatet blir att 400 miljoner fungerande datorer riskerar att kasseras – något som skapar mer än 700 miljoner kg elektronikavfall och stora koldioxidutsläpp.
   - title: Öppenhet stoppar fusk och korruption
     url: https://www.svd.se/a/W0knJg/oppenhet-stoppar-fusk-och-korruption
     date: '2024-10-07'
