@@ -1,0 +1,137 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Mattias Axell",
+  "jobTitle": "Head of Customer Experience",
+  "description": "Helping you access, organize and secure everything important to you with EntryScape @MetaSolutions / Handlingar.se @Open Knowledge Sweden. I have been developing products, services and organizations since my first work experience in 2007 throughout a multiplicity of different roles. As a contributor to processes, organizations and initiatives I contribute with a developmental mindset and point of entry. I strive to embed Regenerative Thinking in all my work and engagement. My passion is to work with redesigning and impacting different sorts of systems to make regenerative development possible. I wish to contribute to solutions which combine the development of technical, human, social and thinking capacity. I believe that the only limit to solving problems and challenges are our thinking and ways of approaching them. My aims are to create healthier, holistic, regenerative systems in order to grow and expand life and consciousness.",
+  "email": "mattias@libertador.es",
+  "url": "https://mattiasaxell.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Stockholm",
+    "addressRegion": "Stockholm County",
+    "addressCountry": "SE"
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Stockholm, Stockholm County, Sweden"
+  },
+  "knowsAbout": [
+    "Technology Leadership",
+    "Administration",
+    "Customer Support",
+    "Information Management",
+    "Metadata Management",
+    "Enterprise Architecture",
+    "Open Source Software",
+    "Regenerative Thinking",
+    "Social Entrepreneurship",
+    "Process Design",
+    "Change Management"
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/in/mattias-axell"
+  ],
+  "hasOccupation": [
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Head of Customer Experience",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "MetaSolutions AB",
+        "description": "Developer of EntryScape, an open-source software for information management."
+      },
+      "startDate": "2023-04",
+      "description": "Leading customer experience, education, and strategic advising. Increased customer satisfaction by double digits; developed training program increasing usage by 30%; provided expertise in metadata, information modeling, and enterprise architecture."
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Customer Success Manager",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "MetaSolutions AB"
+      },
+      "startDate": "2020-04",
+      "endDate": "2023-04",
+      "description": "Built long-term relationships, handled onboarding, training, troubleshooting; identified product improvements from feedback; helped customers achieve business improvements."
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Chief Technology Officer",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Handlingar.se",
+        "alternateName": "Open Knowledge Sweden",
+        "description": "Platform for easy access to public documents from authorities, reducing costs and increasing transparency and societal value."
+      },
+      "startDate": "2018-10",
+      "description": "Technical leader connecting technology with user benefits and non-profit forces. Focus on public documents, diaries, e-diaries, disclosure, open central platform with integrations."
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Co-Founder",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "INSIGO"
+      },
+      "startDate": "2023-02"
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Professional Educator",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Väddö Folkhögskola"
+      },
+      "startDate": "2019-08",
+      "endDate": "2022-06",
+      "description": "Educating people aspiring to learn social entrepreneurship, developmental thinking, process work and change processes."
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Chief Technology Officer",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "The Pepper Quest"
+      },
+      "startDate": "2020-01",
+      "endDate": "2020-12"
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Product Developer",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Datatrion AB"
+      },
+      "startDate": "2019-06",
+      "endDate": "2019-12"
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Project Manager",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Digidem Lab"
+      },
+      "startDate": "2018-10",
+      "endDate": "2019-06"
+    },
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Producer",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Tarvalley"
+      },
+      "startDate": "2017-06",
+      "endDate": "2018-06",
+      "description": "Producer and project lead for 3D, 2D, AR, VR and visualization projects with various clients."
+    }
+  ],
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "KAOSPILOT",
+    "description": "Bachelor's degree (B.Sc.) in Social Entrepreneurship, Innovation, Project Management, Business Administration and Management, General"
+  }
+}
