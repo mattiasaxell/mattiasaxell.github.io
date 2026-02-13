@@ -1,0 +1,162 @@
+{
+  "basics": {
+    "name": "Mattias Axell",
+    "label": "Head of Customer Experience & Chief Technology Officer",
+    "image": "https://mattiasaxell.com/static/uploads/avatar.png",
+    "email": "mattias@libertador.es",
+    "phone": "+46738796571",
+    "url": "https://mattiasaxell.com",
+    "summary": "I have been developing products, services and organizations since my first work experience in 2007 through a multiplicity of different roles. As a contributor to processes, organizations and initiatives I bring a developmental mindset and fresh perspective. I strive to embed Regenerative Thinking in all my work and engagement. My passion is to redesign and impact different kinds of systems to make regenerative development possible. I wish to contribute to solutions which combine the development of technical, human, social and thinking capacity. I believe that the only limit to solving problems and challenges is our thinking and ways of approaching them. My aim is to create healthier, holistic, regenerative systems in order to grow and expand life and consciousness.",
+    "location": {
+      "address": "Söder Mälarstrand 21",
+      "postalCode": "11820",
+      "city": "Stockholm",
+      "countryCode": "SE",
+      "region": "Stockholm County"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mattias-axell",
+        "url": "https://www.linkedin.com/in/mattias-axell"
+      },
+      {
+        "network": "Website",
+        "username": "mattiasaxell",
+        "url": "https://mattiasaxell.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "MetaSolutions AB",
+      "position": "Head of Customer Experience",
+      "url": "https://metasolutions.se",
+      "startDate": "2023-04",
+      "summary": "Leading customer experience, education programs, and strategic advising for EntryScape — an open-source platform for information management, metadata, and enterprise architecture.",
+      "highlights": [
+        "Increased customer satisfaction by double digits",
+        "Developed and launched a new training program that increased EntryScape usage by 30%",
+        "Provide strategic advice and training to customers in metadata management, information modeling, and enterprise architecture",
+        "Speak at conferences and events about EntryScape and its benefits"
+      ]
+    },
+    {
+      "name": "MetaSolutions AB",
+      "position": "Customer Success Manager",
+      "url": "https://metasolutions.se",
+      "startDate": "2020-04",
+      "endDate": "2023-04",
+      "summary": "Built long-term customer relationships and ensured maximum value from EntryScape, an open-source software for information management.",
+      "highlights": [
+        "Responsible for onboarding, training, and troubleshooting",
+        "Identified and implemented product improvements based on customer feedback",
+        "Helped customers achieve significant business improvements through better use of the platform"
+      ]
+    },
+    {
+      "name": "Handlingar.se (Open Knowledge Sweden)",
+      "position": "Chief Technology Officer",
+      "url": "https://handlingar.se",
+      "startDate": "2018-10",
+      "summary": "Technical leader connecting technology with user benefits and non-profit forces. Focus on public documents, diaries, e-diaries, and disclosure. Building an open central platform that makes public documents easily accessible, reduces costs, increases quality, and creates societal value and collective intelligence.",
+      "highlights": [
+        "Making Sweden smarter by publishing more questions and information on the platform",
+        "Reducing pressure on authorities while increasing benefit for citizens and taxpayers",
+        "Competing against unnecessary secrecy and monetization of public documents"
+      ]
+    },
+    {
+      "name": "INSIGO",
+      "position": "Co-Founder",
+      "url": "https://insigo.se",
+      "startDate": "2023-02"
+    },
+    {
+      "name": "Väddö Folkhögskola",
+      "position": "Professional Educator",
+      "url": "https://www.vaddo.fhsk.se/",
+      "startDate": "2019-08",
+      "endDate": "2022-06",
+      "summary": "Educating people aspiring to learn social entrepreneurship, developmental thinking, process work and change processes."
+    },
+    {
+      "name": "The Pepper Quest",
+      "position": "Chief Technology Officer",
+      "url": "https://thepepperquest.com",
+      "startDate": "2020-01",
+      "endDate": "2020-12"
+    },
+    {
+      "name": "Datatrion AB",
+      "position": "Product Developer",
+      "url": "https://datatrion.se",
+      "startDate": "2019-06",
+      "endDate": "2019-12"
+    },
+    {
+      "name": "Digidem Lab",
+      "position": "Project Manager",
+      "url": "https://digidemlab.org",
+      "startDate": "2018-10",
+      "endDate": "2019-06"
+    },
+    {
+      "name": "Tarvalley",
+      "position": "Producer",
+      "url": "",
+      "startDate": "2017-06",
+      "endDate": "2018-06",
+      "summary": "Producer and project lead for 3D, 2D, AR, VR and visualization projects with various clients."
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAOSPILOT",
+      "area": "Social Entrepreneurship, Innovation, Project Management, Business Administration and Management",
+      "studyType": "Bachelor's degree (B.Sc.)",
+      "startDate": "2013-08",
+      "endDate": "2016-06"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technology Leadership",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Customer Success & Education",
+      "level": "Expert",
+      "keywords": [
+        "Onboarding",
+        "Training Programs",
+        "Strategic Advising"
+      ]
+    },
+    {
+      "name": "Information Management",
+      "level": "Expert",
+      "keywords": [
+        "Metadata",
+        "Enterprise Architecture",
+        "Open Source"
+      ]
+    },
+    {
+      "name": "Regenerative Systems Thinking",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ]
+}
