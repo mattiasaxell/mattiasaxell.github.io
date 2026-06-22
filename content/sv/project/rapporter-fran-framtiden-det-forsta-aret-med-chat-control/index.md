@@ -1,7 +1,7 @@
 ---
-title: 'Rapporter från framtiden: Det första året med Chat Control'
+title: Rapporter från framtiden - Det första året med Chat Control
 date: 2024-09-15
-link:: https://www.jeremiahlee.com/posts/after-chat-control/sv/
+link: https://www.jeremiahlee.com/posts/after-chat-control/sv/
 tags:
   - Communication
   - Translation

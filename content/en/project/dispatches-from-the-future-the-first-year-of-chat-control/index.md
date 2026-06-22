@@ -1,7 +1,7 @@
 ---
-title: 'Dispatches from the future: The first year of Chat Control'
+title: Dispatches from the future - The first year of Chat Control
 date: 2024-09-15
-link:: https://www.jeremiahlee.com/posts/after-chat-control/
+link: https://www.jeremiahlee.com/posts/after-chat-control/
 tags:
   - Communication
   - Translation
